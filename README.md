@@ -32,3 +32,8 @@ __2017-03-15__: [Unsupervised Representation Learning with Deep Convolutional Ge
 __2017-03-16__: [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734) by Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, Daan Wierstra
 
 __2017-03-17__: [Scene Graph Generation by Iterative Message Passing](https://arxiv.org/abs/1701.02426) by Danfei Xu, Yuke Zhu, Christopher B. Choy, Li Fei-Fei
+
+## Contacts
+
+Yuhuang Hu  
+Email: duguyue100@gmail.com
