@@ -23,11 +23,29 @@ __2017-03-16__: 感遇 幽人归独卧 _张九龄_ :tada:
 
 __2017-03-17__: 感遇 江南有丹橘 _张九龄_ :tada:
 
-__2017-03-18__: 下终南山过斛斯山人宿置酒 _李白_
+__2017-03-18__: 下终南山过斛斯山人宿置酒 _李白_ :tada:
 
 __2017-03-19__: 月下独酌 _李白_
 
 __2017-03-20__: 春思 _李白_
+
+__2017-03-21__: 赠卫八处士 _杜甫_
+
+__2017-03-22__: 佳人 _杜甫_
+
+__2017-03-23__: 梦李白之一 _杜甫_
+
+__2017-03-24__: 梦李白之二 _杜甫_
+
+__2017-03-25__: 送别 _王维_
+
+__2017-03-26__: 送綦毋潜落第还乡 _王维_
+
+__2017-03-27__: 青溪 _王维_
+
+__2017-03-28__: 渭川田家 _王维_
+
+__2017-03-29__: 西施咏 _王维_
 
 ## Daily Paper List
 
@@ -39,7 +57,7 @@ __2017-03-16__: [PathNet: Evolution Channels Gradient Descent in Super Neural Ne
 
 __2017-03-17__: [Scene Graph Generation by Iterative Message Passing](https://arxiv.org/abs/1701.02426) by Danfei Xu, Yuke Zhu, Christopher B. Choy, Li Fei-Fei :question:
 
-__2017-03-18__: [Overcoming catastrophic forgetting in neural networks](www.pnas.org/content/early/2017/03/13/1611835114.full.pdf) by James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, and Raia Hadsell
+__2017-03-18__: [Overcoming catastrophic forgetting in neural networks](www.pnas.org/content/early/2017/03/13/1611835114.full.pdf) by James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, and Raia Hadsell :tada:
 
 __2017-03-19__: [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548) by Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, Geoffrey Hinton
 
