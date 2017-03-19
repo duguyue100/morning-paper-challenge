@@ -25,7 +25,7 @@ __2017-03-17__: 感遇 江南有丹橘 _张九龄_ :tada:
 
 __2017-03-18__: 下终南山过斛斯山人宿置酒 _李白_ :tada:
 
-__2017-03-19__: 月下独酌 _李白_
+__2017-03-19__: 月下独酌 _李白_ :tada:
 
 __2017-03-20__: 春思 _李白_
 
@@ -59,7 +59,7 @@ __2017-03-17__: [Scene Graph Generation by Iterative Message Passing](https://ar
 
 __2017-03-18__: [Overcoming catastrophic forgetting in neural networks](www.pnas.org/content/early/2017/03/13/1611835114.full.pdf) by James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, and Raia Hadsell :tada:
 
-__2017-03-19__: [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548) by Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, Geoffrey Hinton
+__2017-03-19__: [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548) by Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, Geoffrey Hinton :tada:
 
 __2017-03-20__: [Unsupervised Learning of Long-Term Motion Dynamics for Videos](https://arxiv.org/abs/1701.01821) by Zelun Luo, Boya Peng, De-An Huang, Alexandre Alahi, Li Fei-Fei
 
