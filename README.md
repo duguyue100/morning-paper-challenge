@@ -63,6 +63,18 @@ __2017-03-19__: [Regularizing Neural Networks by Penalizing Confident Output Dis
 
 __2017-03-20__: [Unsupervised Learning of Long-Term Motion Dynamics for Videos](https://arxiv.org/abs/1701.01821) by Zelun Luo, Boya Peng, De-An Huang, Alexandre Alahi, Li Fei-Fei
 
+__2017-03-21__: [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838) by Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, Riccardo Zecchina
+
+__2017-03-22__: [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) by Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar
+
+__2017-03-23__: [DisturbLabel: Regularizing CNN on the Loss Layer](https://arxiv.org/abs/1605.00055) by Lingxi Xie, Jingdong Wang, Zhen Wei, Meng Wang, Qi Tian
+
+__2017-03-24__: [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329) by Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals
+
+__2017-03-25__: [Compete to Compute](https://papers.nips.cc/paper/5059-compete-to-compute) by Rupesh K. Srivastava, Jonathan Masci, Sohrob Kazerounian, Faustino Gomez, Juergen Schmidhuber
+
+__2017-03-26__: [An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks](https://arxiv.org/abs/1312.6211) by Ian J. Goodfellow, Mehdi Mirza, Da Xiao, Aaron Courville, Yoshua Bengio
+
 ## Contacts
 
 Yuhuang Hu  
