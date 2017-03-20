@@ -27,7 +27,7 @@ __2017-03-18__: 下终南山过斛斯山人宿置酒 _李白_ :tada:
 
 __2017-03-19__: 月下独酌 _李白_ :tada:
 
-__2017-03-20__: 春思 _李白_
+__2017-03-20__: 春思 _李白_ :tada:
 
 __2017-03-21__: 赠卫八处士 _杜甫_
 
@@ -61,7 +61,7 @@ __2017-03-18__: [Overcoming catastrophic forgetting in neural networks](www.pnas
 
 __2017-03-19__: [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548) by Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, Geoffrey Hinton :tada:
 
-__2017-03-20__: [Unsupervised Learning of Long-Term Motion Dynamics for Videos](https://arxiv.org/abs/1701.01821) by Zelun Luo, Boya Peng, De-An Huang, Alexandre Alahi, Li Fei-Fei
+__2017-03-20__: [Unsupervised Learning of Long-Term Motion Dynamics for Videos](https://arxiv.org/abs/1701.01821) by Zelun Luo, Boya Peng, De-An Huang, Alexandre Alahi, Li Fei-Fei :tada:
 
 __2017-03-21__: [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838) by Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, Riccardo Zecchina
 
