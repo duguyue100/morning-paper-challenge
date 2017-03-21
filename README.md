@@ -113,6 +113,8 @@ __2017-03-26__: [An Empirical Investigation of Catastrophic Forgetting in Gradie
 
 __2017-03-27__: [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585) by Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, Dhruv Batra
 
+__2017-03-28__: [Demystifying ResNet](https://arxiv.org/abs/1611.01186) by Sihan Li, Jiantao Jiao, Yanjun Han, Tsachy Weissman
+
 ## Contacts
 
 Yuhuang Hu  
