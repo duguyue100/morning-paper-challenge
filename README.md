@@ -115,6 +115,44 @@ __2017-03-27__: [Learning Cooperative Visual Dialog Agents with Deep Reinforceme
 
 __2017-03-28__: [Demystifying ResNet](https://arxiv.org/abs/1611.01186) by Sihan Li, Jiantao Jiao, Yanjun Han, Tsachy Weissman
 
+__2017-03-29__: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
+
+__2017-03-30__: [Wasserstein GAN](https://arxiv.org/abs/1701.07875) by Martin Arjovsky, Soumith Chintala, Léon Bottou
+
+__2017-03-31__: [Stopping GAN Violence: Generative Unadversarial Networks](https://arxiv.org/abs/1703.02528v1) by Samuel Albanie, Sébastien Ehrhardt, João F. Henriques
+
+__2017-04-01__: [All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](https://arxiv.org/abs/1703.01827v1) by Di Xie, Jiang Xiong, Shiliang Pu
+
+__2017-04-02__: [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443v1) by Brandon Amos, J. Zico Kolter
+
+__2017-04-03__: [Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks](https://arxiv.org/abs/1702.05870v2) by Luo Chunjie, Zhan jianfeng, Wang lei, Yang Qiang
+
+__2017-04-04 （清明）__: [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2) by Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang
+
+__2017-04-05__: [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336v5) by Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein.
+
+__2017-04-06__: [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) by Sercan O. Arik, Mike Chrzanowski, Adam Coates, Gregory Diamos, Andrew Gibiansky, Yongguo Kang, Xian Li, John Miller, Andrew Ng, Jonathan Raiman, Shubho Sengupta, Mohammad Shoeybi
+
+__2017-04-07__: [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/pdf?id=BkbY4psgg) by Jonathon Cai, Richard Shin, Dawn Song
+
+__2017-04-08__: [End-to-end Optimized Image Compression](https://arxiv.org/abs/1611.01704) by Johannes Ballé, Valero Laparra, Eero P. Simoncelli
+
+__2017-04-09__: [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247) by Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine
+
+__2017-04-10__: [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779) by Alexey Dosovitskiy, Vladlen Koltun
+
+__2017-04-11__: [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) by Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang
+
+__2017-04-12__: [Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl) by Daniel D. Johnson
+
+__2017-04-13__: [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) by Sergey Zagoruyko, Nikos Komodakis
+
+__2017-04-14__: [Nonparametric Neural Networks](https://openreview.net/pdf?id=BJK3Xasel) by George Philipp, Jaime G. Carbonell
+
+__2017-04-15__: [PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications](https://arxiv.org/abs/1701.05517v1) by Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma
+
+__2017-04-16__: [Capacity and Trainability in Recurrent Neural Networks](https://arxiv.org/abs/1611.09913) by Jasmine Collins, Jascha Sohl-Dickstein, David Sussillo
+
 ## Contacts
 
 Yuhuang Hu  
