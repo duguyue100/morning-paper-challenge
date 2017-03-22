@@ -31,7 +31,7 @@ __2017-03-20 (春分）__ : 春思 _李白_ :tada:
 
 __2017-03-21__: 赠卫八处士 _杜甫_ :tada:
 
-__2017-03-22__: 佳人 _杜甫_
+__2017-03-22__: 佳人 _杜甫_ :tada:
 
 __2017-03-23__: 梦李白之一 _杜甫_
 
@@ -101,7 +101,7 @@ __2017-03-20__: [Unsupervised Learning of Long-Term Motion Dynamics for Videos](
 
 __2017-03-21__: [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838) by Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, Riccardo Zecchina :tada:
 
-__2017-03-22__: [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) by Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar
+__2017-03-22__: [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) by Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar :tada:
 
 __2017-03-23__: [DisturbLabel: Regularizing CNN on the Loss Layer](https://arxiv.org/abs/1605.00055) by Lingxi Xie, Jingdong Wang, Zhen Wei, Meng Wang, Qi Tian
 
