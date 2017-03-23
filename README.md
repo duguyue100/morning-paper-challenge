@@ -33,7 +33,7 @@ __2017-03-21__: 赠卫八处士 _杜甫_ :tada:
 
 __2017-03-22__: 佳人 _杜甫_ :tada:
 
-__2017-03-23__: 梦李白之一 _杜甫_
+__2017-03-23__: 梦李白之一 _杜甫_ :tada:
 
 __2017-03-24__: 梦李白之二 _杜甫_
 
@@ -103,7 +103,7 @@ __2017-03-21__: [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https:
 
 __2017-03-22__: [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) by Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar :tada:
 
-__2017-03-23__: [DisturbLabel: Regularizing CNN on the Loss Layer](https://arxiv.org/abs/1605.00055) by Lingxi Xie, Jingdong Wang, Zhen Wei, Meng Wang, Qi Tian
+__2017-03-23__: [DisturbLabel: Regularizing CNN on the Loss Layer](https://arxiv.org/abs/1605.00055) by Lingxi Xie, Jingdong Wang, Zhen Wei, Meng Wang, Qi Tian :tada:
 
 __2017-03-24__: [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329) by Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals
 
