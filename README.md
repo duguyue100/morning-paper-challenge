@@ -37,7 +37,7 @@ __2017-03-23__: 梦李白之一 _杜甫_ :tada:
 
 __2017-03-24__: 梦李白之二 _杜甫_ :tada:
 
-__2017-03-25__: 送别 _王维_
+__2017-03-25__: 送别 _王维_ :tada:
 
 __2017-03-26__: 送綦毋潜落第还乡 _王维_
 
@@ -107,7 +107,7 @@ __2017-03-23__: [DisturbLabel: Regularizing CNN on the Loss Layer](https://arxiv
 
 __2017-03-24__: [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329) by Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals :tada:
 
-__2017-03-25__: [Compete to Compute](https://papers.nips.cc/paper/5059-compete-to-compute) by Rupesh K. Srivastava, Jonathan Masci, Sohrob Kazerounian, Faustino Gomez, Juergen Schmidhuber
+__2017-03-25__: [Compete to Compute](https://papers.nips.cc/paper/5059-compete-to-compute) by Rupesh K. Srivastava, Jonathan Masci, Sohrob Kazerounian, Faustino Gomez, Juergen Schmidhuber :tada:
 
 __2017-03-26__: [An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks](https://arxiv.org/abs/1312.6211) by Ian J. Goodfellow, Mehdi Mirza, Da Xiao, Aaron Courville, Yoshua Bengio
 
