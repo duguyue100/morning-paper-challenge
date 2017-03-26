@@ -39,7 +39,7 @@ __2017-03-24__: 梦李白之二 _杜甫_ :tada:
 
 __2017-03-25__: 送别 _王维_ :tada:
 
-__2017-03-26__: 送綦毋潜落第还乡 _王维_
+__2017-03-26__: 送綦毋潜落第还乡 _王维_ :tada:
 
 __2017-03-27__: 青溪 _王维_
 
@@ -109,7 +109,7 @@ __2017-03-24__: [Recurrent Neural Network Regularization](https://arxiv.org/abs/
 
 __2017-03-25__: [Compete to Compute](https://papers.nips.cc/paper/5059-compete-to-compute) by Rupesh K. Srivastava, Jonathan Masci, Sohrob Kazerounian, Faustino Gomez, Juergen Schmidhuber :tada:
 
-__2017-03-26__: [An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks](https://arxiv.org/abs/1312.6211) by Ian J. Goodfellow, Mehdi Mirza, Da Xiao, Aaron Courville, Yoshua Bengio
+__2017-03-26__: [An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks](https://arxiv.org/abs/1312.6211) by Ian J. Goodfellow, Mehdi Mirza, Da Xiao, Aaron Courville, Yoshua Bengio :tada:
 
 __2017-03-27__: [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585) by Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, Dhruv Batra
 
