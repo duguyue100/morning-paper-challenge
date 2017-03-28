@@ -43,7 +43,7 @@ __2017-03-26__: 送綦毋潜落第还乡 _王维_ :tada:
 
 __2017-03-27__: 青溪 _王维_ :tada:
 
-__2017-03-28__: 渭川田家 _王维_
+__2017-03-28__: 渭川田家 _王维_ :tada:
 
 __2017-03-29__: 西施咏 _王维_
 
@@ -113,7 +113,7 @@ __2017-03-26__: [An Empirical Investigation of Catastrophic Forgetting in Gradie
 
 __2017-03-27__: [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585) by Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, Dhruv Batra :tada:
 
-__2017-03-28__: [Demystifying ResNet](https://arxiv.org/abs/1611.01186) by Sihan Li, Jiantao Jiao, Yanjun Han, Tsachy Weissman
+__2017-03-28__: [Demystifying ResNet](https://arxiv.org/abs/1611.01186) by Sihan Li, Jiantao Jiao, Yanjun Han, Tsachy Weissman :tada:
 
 __2017-03-29__: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
 
