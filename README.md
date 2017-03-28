@@ -115,13 +115,13 @@ __2017-03-27__: [Learning Cooperative Visual Dialog Agents with Deep Reinforceme
 
 __2017-03-28__: [Demystifying ResNet](https://arxiv.org/abs/1611.01186) by Sihan Li, Jiantao Jiao, Yanjun Han, Tsachy Weissman :tada:
 
-__2017-03-29__: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
+__2017-03-29__: [All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](https://arxiv.org/abs/1703.01827v1) by Di Xie, Jiang Xiong, Shiliang Pu
 
 __2017-03-30__: [Wasserstein GAN](https://arxiv.org/abs/1701.07875) by Martin Arjovsky, Soumith Chintala, Léon Bottou
 
 __2017-03-31__: [Stopping GAN Violence: Generative Unadversarial Networks](https://arxiv.org/abs/1703.02528v1) by Samuel Albanie, Sébastien Ehrhardt, João F. Henriques
 
-__2017-04-01__: [All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](https://arxiv.org/abs/1703.01827v1) by Di Xie, Jiang Xiong, Shiliang Pu
+__2017-04-01__: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
 
 __2017-04-02__: [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443v1) by Brandon Amos, J. Zico Kolter
 
