@@ -115,7 +115,7 @@ __2017-03-27__: [Learning Cooperative Visual Dialog Agents with Deep Reinforceme
 
 __2017-03-28__: [Demystifying ResNet](https://arxiv.org/abs/1611.01186) by Sihan Li, Jiantao Jiao, Yanjun Han, Tsachy Weissman :tada:
 
-__2017-03-29__: [All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](https://arxiv.org/abs/1703.01827v1) by Di Xie, Jiang Xiong, Shiliang Pu :tada:
+__2017-03-29__: [All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](https://arxiv.org/abs/1703.01827v1) by Di Xie, Jiang Xiong, Shiliang Pu :question:
 
 __2017-03-30__: [Wasserstein GAN](https://arxiv.org/abs/1701.07875) by Martin Arjovsky, Soumith Chintala, Léon Bottou
 
