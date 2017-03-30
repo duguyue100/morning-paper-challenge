@@ -47,7 +47,7 @@ __2017-03-28__: 渭川田家 _王维_ :tada:
 
 __2017-03-29__: 西施咏 _王维_ :tada:
 
-__2017-03-30__: 秋登兰山寄张五 _孟浩然_
+__2017-03-30__: 秋登兰山寄张五 _孟浩然_ :tada:
 
 __2017-03-31__: 夏日南亭怀辛大 _孟浩然_
 
@@ -117,7 +117,7 @@ __2017-03-28__: [Demystifying ResNet](https://arxiv.org/abs/1611.01186) by Sihan
 
 __2017-03-29__: [All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](https://arxiv.org/abs/1703.01827v1) by Di Xie, Jiang Xiong, Shiliang Pu :question:
 
-__2017-03-30__: [Wasserstein GAN](https://arxiv.org/abs/1701.07875) by Martin Arjovsky, Soumith Chintala, Léon Bottou
+__2017-03-30__: [Wasserstein GAN](https://arxiv.org/abs/1701.07875) by Martin Arjovsky, Soumith Chintala, Léon Bottou :question:
 
 __2017-03-31__: [Stopping GAN Violence: Generative Unadversarial Networks](https://arxiv.org/abs/1703.02528v1) by Samuel Albanie, Sébastien Ehrhardt, João F. Henriques
 
