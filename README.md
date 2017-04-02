@@ -53,7 +53,7 @@ __2017-03-31__: 夏日南亭怀辛大 _孟浩然_ :tada:
 
 __2017-04-01__: 宿业师山房待丁大不至 _孟浩然_ :tada:
 
-__2017-04-02__: 同从弟南斋玩月忆山阴崔少府 _王昌龄_
+__2017-04-02__: 同从弟南斋玩月忆山阴崔少府 _王昌龄_ :tada:
 
 __2017-04-03__: 寻西山隐者不遇 _邱为_
 
@@ -123,7 +123,7 @@ __2017-03-31__: [Stopping GAN Violence: Generative Unadversarial Networks](https
 
 __2017-04-01__: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu :tada:
 
-__2017-04-02__: [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443v1) by Brandon Amos, J. Zico Kolter
+__2017-04-02__: [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443v1) by Brandon Amos, J. Zico Kolter :question:
 
 __2017-04-03__: [Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks](https://arxiv.org/abs/1702.05870v2) by Luo Chunjie, Zhan jianfeng, Wang lei, Yang Qiang
 
