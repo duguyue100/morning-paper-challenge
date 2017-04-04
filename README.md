@@ -1,4 +1,4 @@
-# Morning Paper Challenge
+#Morning Paper Challenge
 
 + 文丞相：“孔曰成仁，孟曰取义，惟其义尽，所以仁至。读圣贤书，所学何事？而今而后，庶几无愧。”
 + 张子：“为天地立心，为生民立命，为往圣继绝学，为万世开太平。”
@@ -55,9 +55,9 @@ __2017-04-01__: 宿业师山房待丁大不至 _孟浩然_ :tada:
 
 __2017-04-02__: 同从弟南斋玩月忆山阴崔少府 _王昌龄_ :tada:
 
-__2017-04-03__: 寻西山隐者不遇 _邱为_
+__2017-04-03__: 寻西山隐者不遇 _邱为_ :tada:
 
-__2017-04-04 (清明）__: 春泛若耶溪 _綦毋潜_
+__2017-04-04 (清明）__: 春泛若耶溪 _綦毋潜_ :tada:
 
 __2017-04-05__: 宿王昌龄隐居 _常建_
 
@@ -125,9 +125,9 @@ __2017-04-01__: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/ab
 
 __2017-04-02__: [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443v1) by Brandon Amos, J. Zico Kolter :question:
 
-__2017-04-03__: [Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks](https://arxiv.org/abs/1702.05870v2) by Luo Chunjie, Zhan jianfeng, Wang lei, Yang Qiang
+__2017-04-03__: [Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks](https://arxiv.org/abs/1702.05870v2) by Luo Chunjie, Zhan jianfeng, Wang lei, Yang Qiang :tada:
 
-__2017-04-04 （清明）__: [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2) by Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang
+__2017-04-04 （清明）__: [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2) by Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang :tada:
 
 __2017-04-05__: [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336v5) by Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein.
 
