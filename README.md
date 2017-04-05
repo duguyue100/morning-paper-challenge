@@ -59,7 +59,7 @@ __2017-04-03__: 寻西山隐者不遇 _邱为_ :tada:
 
 __2017-04-04 (清明）__: 春泛若耶溪 _綦毋潜_ :tada:
 
-__2017-04-05__: 宿王昌龄隐居 _常建_
+__2017-04-05__: 宿王昌龄隐居 _常建_ :tada:
 
 __2017-04-06__: 与高适薛据登慈恩寺浮图 _岑参_
 
@@ -129,7 +129,7 @@ __2017-04-03__: [Cosine Normalization: Using Cosine Similarity Instead of Dot Pr
 
 __2017-04-04 （清明）__: [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076v2) by Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang :tada:
 
-__2017-04-05__: [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336v5) by Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein.
+__2017-04-05__: [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336v5) by Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein. :question:
 
 __2017-04-06__: [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) by Sercan O. Arik, Mike Chrzanowski, Adam Coates, Gregory Diamos, Andrew Gibiansky, Yongguo Kang, Xian Li, John Miller, Andrew Ng, Jonathan Raiman, Shubho Sengupta, Mohammad Shoeybi
 
