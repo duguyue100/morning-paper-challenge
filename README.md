@@ -61,7 +61,7 @@ __2017-04-04 (清明）__: 春泛若耶溪 _綦毋潜_ :tada:
 
 __2017-04-05__: 宿王昌龄隐居 _常建_ :tada:
 
-__2017-04-06__: 与高适薛据登慈恩寺浮图 _岑参_
+__2017-04-06__: 与高适薛据登慈恩寺浮图 _岑参_ :question:
 
 __2017-04-07__: 贼退示官吏并序 _元结_
 
@@ -131,7 +131,7 @@ __2017-04-04 （清明）__: [Least Squares Generative Adversarial Networks](htt
 
 __2017-04-05__: [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336v5) by Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein. :question:
 
-__2017-04-06__: [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) by Sercan O. Arik, Mike Chrzanowski, Adam Coates, Gregory Diamos, Andrew Gibiansky, Yongguo Kang, Xian Li, John Miller, Andrew Ng, Jonathan Raiman, Shubho Sengupta, Mohammad Shoeybi
+__2017-04-06__: [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) by Sercan O. Arik, Mike Chrzanowski, Adam Coates, Gregory Diamos, Andrew Gibiansky, Yongguo Kang, Xian Li, John Miller, Andrew Ng, Jonathan Raiman, Shubho Sengupta, Mohammad Shoeybi :question:
 
 __2017-04-07__: [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/pdf?id=BkbY4psgg) by Jonathon Cai, Richard Shin, Dawn Song
 
