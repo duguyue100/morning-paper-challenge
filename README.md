@@ -63,11 +63,11 @@ __2017-04-05__: 宿王昌龄隐居 _常建_ :tada:
 
 __2017-04-06__: 与高适薛据登慈恩寺浮图 _岑参_ :question:
 
-__2017-04-07__: 贼退示官吏并序 _元结_
+__2017-04-07__: 贼退示官吏并序 _元结_ :question:
 
-__2017-04-08__: 郡斋雨中与诸文士燕集 _韦应物_
+__2017-04-08__: 郡斋雨中与诸文士燕集 _韦应物_ :question:
 
-__2017-04-09__: 初发扬子寄元大校书 _韦应物_
+__2017-04-09__: 初发扬子寄元大校书 _韦应物_ :question:
 
 __2017-04-10__: 寄全椒山中道士 _韦应物_
 
@@ -133,11 +133,11 @@ __2017-04-05__: [On the Expressive Power of Deep Neural Networks](https://arxiv.
 
 __2017-04-06__: [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) by Sercan O. Arik, Mike Chrzanowski, Adam Coates, Gregory Diamos, Andrew Gibiansky, Yongguo Kang, Xian Li, John Miller, Andrew Ng, Jonathan Raiman, Shubho Sengupta, Mohammad Shoeybi :question:
 
-__2017-04-07__: [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/pdf?id=BkbY4psgg) by Jonathon Cai, Richard Shin, Dawn Song
+__2017-04-07__: [Making Neural Programming Architectures Generalize via Recursion](https://openreview.net/pdf?id=BkbY4psgg) by Jonathon Cai, Richard Shin, Dawn Song :question:
 
-__2017-04-08__: [End-to-end Optimized Image Compression](https://arxiv.org/abs/1611.01704) by Johannes Ballé, Valero Laparra, Eero P. Simoncelli
+__2017-04-08__: [End-to-end Optimized Image Compression](https://arxiv.org/abs/1611.01704) by Johannes Ballé, Valero Laparra, Eero P. Simoncelli :tada:
 
-__2017-04-09__: [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247) by Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine
+__2017-04-09__: [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247) by Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine :question:
 
 __2017-04-10__: [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779) by Alexey Dosovitskiy, Vladlen Koltun
 
