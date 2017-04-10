@@ -69,7 +69,7 @@ __2017-04-08__: 郡斋雨中与诸文士燕集 _韦应物_ :question:
 
 __2017-04-09__: 初发扬子寄元大校书 _韦应物_ :question:
 
-__2017-04-10__: 寄全椒山中道士 _韦应物_
+__2017-04-10__: 寄全椒山中道士 _韦应物_ :tada:
 
 __2017-04-11__: 长安遇冯著 _韦应物_
 
@@ -139,7 +139,7 @@ __2017-04-08__: [End-to-end Optimized Image Compression](https://arxiv.org/abs/1
 
 __2017-04-09__: [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247) by Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine :question:
 
-__2017-04-10__: [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779) by Alexey Dosovitskiy, Vladlen Koltun
+__2017-04-10__: [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779) by Alexey Dosovitskiy, Vladlen Koltun :tada:
 
 __2017-04-11__: [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) by Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang
 
