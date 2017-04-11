@@ -71,7 +71,7 @@ __2017-04-09__: 初发扬子寄元大校书 _韦应物_ :question:
 
 __2017-04-10__: 寄全椒山中道士 _韦应物_ :tada:
 
-__2017-04-11__: 长安遇冯著 _韦应物_
+__2017-04-11__: 长安遇冯著 _韦应物_ :tada:
 
 __2017-04-12__: 夕次盱眙县 _韦应物_
 
@@ -141,7 +141,7 @@ __2017-04-09__: [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Cri
 
 __2017-04-10__: [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779) by Alexey Dosovitskiy, Vladlen Koltun :tada:
 
-__2017-04-11__: [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) by Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang
+__2017-04-11__: [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) by Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang :tada:
 
 __2017-04-12__: [Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl) by Daniel D. Johnson
 
