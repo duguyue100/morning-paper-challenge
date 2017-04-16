@@ -73,15 +73,15 @@ __2017-04-10__: 寄全椒山中道士 _韦应物_ :tada:
 
 __2017-04-11__: 长安遇冯著 _韦应物_ :tada:
 
-__2017-04-12__: 夕次盱眙县 _韦应物_
+__2017-04-12__: 夕次盱眙县 _韦应物_ :tada:
 
-__2017-04-13__: 东郊 _韦应物_
+__2017-04-13__: 东郊 _韦应物_ :tada:
 
-__2017-04-14__: 送杨氏女 _韦应物_
+__2017-04-14__: 送杨氏女 _韦应物_ :question:
 
-__2017-04-15__: 晨诣超师院读禅经 _柳宗元_
+__2017-04-15__: 晨诣超师院读禅经 _柳宗元_ :question:
 
-__2017-04-16__: 溪居 _柳宗元_
+__2017-04-16__: 溪居 _柳宗元_ :tada:
 
 ## Daily Paper List
 
@@ -143,15 +143,15 @@ __2017-04-10__: [Learning to Act by Predicting the Future](https://arxiv.org/abs
 
 __2017-04-11__: [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) by Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang :tada:
 
-__2017-04-12__: [Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl) by Daniel D. Johnson
+__2017-04-12__: [Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl) by Daniel D. Johnson :question:
 
-__2017-04-13__: [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) by Sergey Zagoruyko, Nikos Komodakis
+__2017-04-13__: [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) by Sergey Zagoruyko, Nikos Komodakis :tada:
 
-__2017-04-14__: [Nonparametric Neural Networks](https://openreview.net/pdf?id=BJK3Xasel) by George Philipp, Jaime G. Carbonell
+__2017-04-14__: [Nonparametric Neural Networks](https://openreview.net/pdf?id=BJK3Xasel) by George Philipp, Jaime G. Carbonell :question:
 
-__2017-04-15__: [PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications](https://arxiv.org/abs/1701.05517v1) by Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma
+__2017-04-15__: [PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications](https://arxiv.org/abs/1701.05517v1) by Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma :tada:
 
-__2017-04-16__: [Capacity and Trainability in Recurrent Neural Networks](https://arxiv.org/abs/1611.09913) by Jasmine Collins, Jascha Sohl-Dickstein, David Sussillo
+__2017-04-16__: [Capacity and Trainability in Recurrent Neural Networks](https://arxiv.org/abs/1611.09913) by Jasmine Collins, Jascha Sohl-Dickstein, David Sussillo :tada:
 
 ## Contacts
 
