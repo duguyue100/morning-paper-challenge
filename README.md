@@ -1,4 +1,4 @@
-#Morning Paper Challenge
+# Morning Paper Challenge
 
 + 文丞相：“孔曰成仁，孟曰取义，惟其义尽，所以仁至。读圣贤书，所学何事？而今而后，庶几无愧。”
 + 张子：“为天地立心，为生民立命，为往圣继绝学，为万世开太平。”
