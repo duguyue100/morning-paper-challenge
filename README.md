@@ -4,6 +4,28 @@
 + 张子：“为天地立心，为生民立命，为往圣继绝学，为万世开太平。”
 + 阳明先生：“当读书做圣人耳。”
 
+# Book Reading Challenge - Foundations in Machine Learning and Theory of Computation
+
+## Deep Learning
+
+[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+![Progress](http://progressed.io/bar/0?scale=20&title=DLBook%20read&suffix=%20)
+
+## Pattern Recognition and Machine Learning
+
+## An Introduction to Kolmogorov Complexity and Its Applications
+
+## Information Geometry and Its Applications
+
+## Reinforcement Learning: An Introduction
+
+# Second Morning Paper Challenge
+
+
+---
+# First Morning Paper Challenge
+
 ## Schedule
 
 1. 0600: Go to lab, memorize a poem.
