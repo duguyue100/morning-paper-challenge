@@ -10,9 +10,13 @@
 
 [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
-![Progress](http://progressed.io/bar/0?scale=20&title=DLBook%20read&suffix=%20)
+![Progress](http://progressed.io/bar/0?scale=20&title=DLBook&suffix=%20)
 
 ## Pattern Recognition and Machine Learning
+
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/) by Christopher Bishop
+
+![Progress](http://progressed.io/bar/0?scale=14&title=DLBook&suffix=%20)
 
 ## An Introduction to Kolmogorov Complexity and Its Applications
 
@@ -22,8 +26,20 @@
 
 # Second Morning Paper Challenge
 
+This round of morning paper challenge will focus on the paper that I'm interested in.
+For some papers that are too long, it may take several days to read.
+I will try my best to attach a brief post-reading-comment.
+
+![Progress](http://progressed.io/bar/0?scale=30&title=paper%20read&suffix=%20)
+
+1. [Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382) by Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Weinberger
+
+2. [Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/abs/1603.08983) by Alex Graves
+
+3. [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904) by Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang
 
 ---
+
 # First Morning Paper Challenge
 
 ## Schedule
