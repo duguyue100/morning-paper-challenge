@@ -16,7 +16,7 @@
 
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/) by Christopher Bishop
 
-![Progress](http://progressed.io/bar/0?scale=14&title=DLBook&suffix=%20)
+![Progress](http://progressed.io/bar/0?scale=14&title=PRML&suffix=%20)
 
 ## An Introduction to Kolmogorov Complexity and Its Applications
 
