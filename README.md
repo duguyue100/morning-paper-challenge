@@ -6,7 +6,9 @@
 
 ## Book Reading Challenge
 
-__Foundations in Machine Learning and Theory of Computation__
+_Foundations in Machine Learning and Theory of Computation_
+
+---
 
 ### Deep Learning
 
