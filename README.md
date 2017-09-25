@@ -30,11 +30,7 @@
 
 ## Second Morning Paper Challenge
 
-One Hour, One Paper, Everyday at 8am, At
-
-<div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d513.0415062105483!2d8.549173275851201!3d47.39336754728285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2cb79f95aa652fc3!2s%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark!5e1!3m2!1sen!2sch!4v1506348693775" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
+One Hour, One Paper, Everyday at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)
 
 ![Progress](http://progressed.io/bar/0?scale=30&title=paper%20read&suffix=%20)
 
