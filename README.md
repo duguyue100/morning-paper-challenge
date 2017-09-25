@@ -4,7 +4,9 @@
 + 张子：“为天地立心，为生民立命，为往圣继绝学，为万世开太平。”
 + 阳明先生：“当读书做圣人耳。”
 
-## Book Reading Challenge - Foundations in Machine Learning and Theory of Computation
+## Book Reading Challenge
+
+__Foundations in Machine Learning and Theory of Computation__
 
 ### Deep Learning
 
@@ -44,7 +46,7 @@ One Hour, One Paper, Everyday at 8am, At [here](https://www.google.ch/maps/place
 
 ## First Morning Paper Challenge
 
-The first morning paper challenge is archived at [here](./first-challenge.md)
+The first morning paper challenge is archived at [here](./first-challenge.md).
 
 ## Contacts
 
