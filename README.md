@@ -34,7 +34,7 @@ _Foundations in Machine Learning and Theory of Computation_
 
 ## Second Morning Paper Challenge
 
-One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en).
+_One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
 ![Progress](http://progressed.io/bar/0?scale=30&title=paper%20read&suffix=%20)
 
