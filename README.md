@@ -26,7 +26,7 @@
 
 [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june19.pdf) by Richard S. Sutton and Andrew G. Barto
 
-![Progress](http://progressed.io/bar/0?scale=17&title=PRML&suffix=%20)
+![Progress](http://progressed.io/bar/0?scale=17&title=RLIntro&suffix=%20)
 
 ## Second Morning Paper Challenge
 
