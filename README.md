@@ -36,7 +36,7 @@ _Foundations in Machine Learning and Theory of Computation_
 
 _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
-![Progress](http://progressed.io/bar/0?scale=30&title=paper%20read&suffix=%20)
+![Progress](http://progressed.io/bar/1?scale=30&title=paper%20read&suffix=%20)
 
 1. [Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382) by Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Weinberger
 
@@ -44,7 +44,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 3. [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904) by Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang
 
-4. [EraseReLU: A Simple Way to Ease the Training of Deep Convolution Neural Networks](https://arxiv.org/abs/1709.07634) by Xuanyi Dong, Guoliang Kang, Kun Zhan, Yi Yang
+4. [EraseReLU: A Simple Way to Ease the Training of Deep Convolution Neural Networks](https://arxiv.org/abs/1709.07634) by Xuanyi Dong, Guoliang Kang, Kun Zhan, Yi Yang :tada:
 
 ## First Morning Paper Challenge
 
