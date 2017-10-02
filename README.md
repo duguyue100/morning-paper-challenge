@@ -48,6 +48,8 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 5. [Riemannian approach to batch normalization](https://arxiv.org/abs/1709.09603) by Minhyung Cho, Jaehyung Lee :tada:
 
+6. [Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation](https://arxiv.org/abs/1709.10489) by Gregory Kahn, Adam Villaflor, Bosen Ding, Pieter Abbeel, Sergey Levine.
+
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
