@@ -46,6 +46,8 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 4. [EraseReLU: A Simple Way to Ease the Training of Deep Convolution Neural Networks](https://arxiv.org/abs/1709.07634) by Xuanyi Dong, Guoliang Kang, Kun Zhan, Yi Yang :tada:
 
+5. [Riemannian approach to batch normalization](https://arxiv.org/abs/1709.09603) by Minhyung Cho, Jaehyung Lee :tada:
+
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
