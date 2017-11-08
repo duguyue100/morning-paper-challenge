@@ -6,6 +6,7 @@
 
 ## Schedule
 
+
 1. 0600: Go to lab, memorize a poem.
 2. 0630: Watering myself, get paper, head to the hill, morning exercise.
 3. 0700: Start reading the paper.
