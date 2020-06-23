@@ -10,9 +10,9 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 ![Progress](https://progress-bar.dev/2/?scale=30&title=MPC&width=120&suffix=)
 
-1. __2020-06-22__: [Light-weight calibrator: a separable component for unsupervised domain adaptation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Light-weight_Calibrator_A_Separable_Component_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf)
+1. __2020-06-22__: [Light-weight calibrator: a separable component for unsupervised domain adaptation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Light-weight_Calibrator_A_Separable_Component_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) :tada:
 
-2. __2020-06-23__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 1 Page 4-12
+2. __2020-06-23__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 1 Page 4-12 :tada:
 
 ## First Morning Paper Challenge
 
