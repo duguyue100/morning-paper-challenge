@@ -4,56 +4,23 @@
 + 张子：“为天地立心，为生民立命，为往圣继绝学，为万世开太平。”
 + 阳明先生：“当读书做圣人耳。”
 
-## Book Reading Challenge
-
-_Foundations in Machine Learning and Theory of Computation_
-
----
-
-### Deep Learning
-
-[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
-
-![Progress](http://progressed.io/bar/0?scale=20&title=DLBook&suffix=%20)
-
-### Pattern Recognition and Machine Learning
-
-[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/) by Christopher Bishop
-
-![Progress](http://progressed.io/bar/0?scale=14&title=PRML&suffix=%20)
-
-### An Introduction to Kolmogorov Complexity and Its Applications
-
-
-### Information Geometry and Its Applications
-
-### Reinforcement Learning: An Introduction
-
-[Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june19.pdf) by Richard S. Sutton and Andrew G. Barto
-
-![Progress](http://progressed.io/bar/0?scale=17&title=RLIntro&suffix=%20)
-
-## Second Morning Paper Challenge
+## Third Morning Paper Challenge
 
 _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
-![Progress](http://progressed.io/bar/1?scale=30&title=paper%20read&suffix=%20)
+![Progress](https://progress-bar.dev/2/?scale=30&title=MPC&width=120&suffix=)
 
-1. [Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382) by Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Weinberger
+1. __2020-06-22__: [Light-weight calibrator: a separable component for unsupervised domain adaptation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Light-weight_Calibrator_A_Separable_Component_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf)
 
-2. [Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/abs/1603.08983) by Alex Graves
-
-3. [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904) by Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang
-
-4. [EraseReLU: A Simple Way to Ease the Training of Deep Convolution Neural Networks](https://arxiv.org/abs/1709.07634) by Xuanyi Dong, Guoliang Kang, Kun Zhan, Yi Yang :tada:
-
-5. [Riemannian approach to batch normalization](https://arxiv.org/abs/1709.09603) by Minhyung Cho, Jaehyung Lee :tada:
-
-6. [Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation](https://arxiv.org/abs/1709.10489) by Gregory Kahn, Adam Villaflor, Bosen Ding, Pieter Abbeel, Sergey Levine.
+2. __2020-06-23__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 1 Page 4-12
 
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
+
+## Second Unsuccessful Paper Challenge Attempt
+
+It's [here](./second-unsuccessful-attempt.md)
 
 ## Contacts
 
