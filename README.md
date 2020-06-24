@@ -16,6 +16,8 @@ __2020-06-23__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-in
 
 __2020-06-24__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 1, Chapter 2 Page 13-22 :tada:
 
+__2020-06-25__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 2 Page 22-27
+
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
