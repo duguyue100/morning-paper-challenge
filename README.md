@@ -30,6 +30,24 @@ __2020-06-30__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-in
 
 __2020-07-01__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 3 Page 62-66
 
+__2020-07-02__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 67-73
+
+__2020-07-03__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 74-79
+
+__2020-07-04__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 79-85
+
+__2020-07-05__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 87-92
+
+__2020-07-06__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 92-101
+
+__2020-07-07__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 103-106
+
+__2020-07-08__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 107-114
+
+__2020-07-09__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 115-125
+
+__2020-07-10__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 126-138
+
 
 ## First Morning Paper Challenge
 
