@@ -40,15 +40,6 @@ __2020-07-05__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-in
 
 __2020-07-06__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 92-101
 
-__2020-07-07__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 103-106
-
-__2020-07-08__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 107-114
-
-__2020-07-09__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 115-125
-
-__2020-07-10__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 4 Page 126-138
-
-
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
