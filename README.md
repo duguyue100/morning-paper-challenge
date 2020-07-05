@@ -40,6 +40,18 @@ __2020-07-05__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-in
 
 __2020-07-06__: [Stochastic Systems](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Stochastic-Systems/Script_Stochastic_Sytems.pdf) Chapter 5 Page 92-101
 
+__2020-07-07__: [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+
+__2020-07-08__: [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
+
+__2020-07-09__: [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+
+__2020-07-10__: [Putting An End to End-to-End: Gradient-Isolated Learning of Representations](https://arxiv.org/abs/1905.11786)
+
+__2020-07-11__: [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
+
+__2020-07-12__: [Event-based Asynchronous Sparse Convolutional Networks](https://arxiv.org/abs/2003.09148)
+
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
