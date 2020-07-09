@@ -56,6 +56,18 @@ __2020-07-13__: [SpecAugment: A Simple Data Augmentation Method for Automatic Sp
 
 __2020-07-14__: [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)
 
+__2020-07-15__: [REMIND Your Neural Network to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/1910.02509.pdf)
+
+__2020-07-16__: [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/pdf/1910.02509.pdf)
+
+__2020-07-17__: [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf)
+
+__2020-07-18__: [Prototype Rectification for Few-Shot Learning](https://arxiv.org/pdf/1911.10713.pdf)
+
+__2020-07-19__: [Multiple Object Tracking with Siamese Track-RCNN](https://arxiv.org/pdf/2004.07786.pdf)
+
+__2020-07-20__: [Invertible Image Rescaling](https://arxiv.org/pdf/2005.05650.pdf)
+
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
