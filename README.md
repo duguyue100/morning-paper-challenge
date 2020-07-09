@@ -52,6 +52,10 @@ __2020-07-11__: [Prototypical Networks for Few-shot Learning](https://arxiv.org/
 
 __2020-07-12__: [Event-based Asynchronous Sparse Convolutional Networks](https://arxiv.org/abs/2003.09148)
 
+__2020-07-13__: [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/pdf/1904.08779.pdf)
+
+__2020-07-14__: [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)
+
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
