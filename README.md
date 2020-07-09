@@ -44,7 +44,7 @@ __2020-07-07__: [A Simple Framework for Contrastive Learning of Visual Represent
 
 __2020-07-08__: [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029) :tada:
 
-__2020-07-09__: [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) :tada: Note: don't understand where the negative samples are from.
+__2020-07-09__: [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) :tada:
 
 __2020-07-10__: [Putting An End to End-to-End: Gradient-Isolated Learning of Representations](https://arxiv.org/abs/1905.11786)
 
