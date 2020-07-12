@@ -8,7 +8,7 @@
 
 _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
-![Progress](https://progress-bar.dev/20/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/21/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-06-22__: [Light-weight calibrator: a separable component for unsupervised domain adaptation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Light-weight_Calibrator_A_Separable_Component_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) :tada:
 
@@ -50,7 +50,7 @@ __2020-07-10__: [Putting An End to End-to-End: Gradient-Isolated Learning of Rep
 
 __2020-07-11__: [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175) :tada:
 
-__2020-07-12__: [Event-based Asynchronous Sparse Convolutional Networks](https://arxiv.org/abs/2003.09148)
+__2020-07-12__: [Event-based Asynchronous Sparse Convolutional Networks](https://arxiv.org/abs/2003.09148) :tada: I didn't fully understand the rule book update.
 
 __2020-07-13__: [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/pdf/1904.08779.pdf)
 
