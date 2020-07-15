@@ -8,7 +8,7 @@
 
 _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
-![Progress](https://progress-bar.dev/23/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/24/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-06-22__: [Light-weight calibrator: a separable component for unsupervised domain adaptation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Light-weight_Calibrator_A_Separable_Component_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) :tada:
 
@@ -56,7 +56,7 @@ __2020-07-13__: [SpecAugment: A Simple Data Augmentation Method for Automatic Sp
 
 __2020-07-14__: [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf) :tada:
 
-__2020-07-15__: [REMIND Your Neural Network to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/1910.02509.pdf)
+__2020-07-15__: [REMIND Your Neural Network to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/1910.02509.pdf) :tada:
 
 __2020-07-16__: [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/pdf/1910.02509.pdf)
 
