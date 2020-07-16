@@ -58,7 +58,7 @@ __2020-07-14__: [Momentum Contrast for Unsupervised Visual Representation Learni
 
 __2020-07-15__: [REMIND Your Neural Network to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/1910.02509.pdf) :tada:
 
-__2020-07-16__: [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/pdf/1910.02509.pdf)
+__2020-07-16__: [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/pdf/2003.11539.pdf)
 
 __2020-07-17__: [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf)
 
