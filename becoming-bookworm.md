@@ -9,20 +9,20 @@ Let the reading begains.
 
 ### First Challenge (Start: July 16th, Duration: 6 Weeks)
 
-| M | T | W | T      | F | S | S |
-|---|---|---|--------|---|---|---|
-|   |   |   | :tada: |   |   |   |
-|   |   |   |        |   |   |   |
-|   |   |   |        |   |   |   |
-|   |   |   |        |   |   |   |
-|   |   |   |        |   |   |   |
-|   |   |   |        |   |   |   |
+| M | T | W | T      | F       | S | S |
+|---|---|---|--------|---------|---|---|
+|   |   |   | :tada: | :tada:  |   |   |
+|   |   |   |        |         |   |   |
+|   |   |   |        |         |   |   |
+|   |   |   |        |         |   |   |
+|   |   |   |        |         |   |   |
+|   |   |   |        |         |   |   |
 
 ## 怎样学下围棋
 
 __加藤正夫__
 
-![Progress](https://progress-bar.dev/104/?scale=208&title=怎样学下围棋%20%20%20%20%20&width=720&suffix=)
+![Progress](https://progress-bar.dev/164/?scale=208&title=怎样学下围棋%20%20%20%20%20&width=720&suffix=)
 
 ## 阅微草堂笔记
 
