@@ -28,7 +28,7 @@ __加藤正夫__
 
 __加藤正夫__
 
-![Progress](https://progress-bar.dev/0/?scale=183&title=怎样学下围棋%20%20%20%20%20&width=720&suffix=)
+![Progress](https://progress-bar.dev/0/?scale=183&title=下三手的判断%20布局%20%20%20%20%20%20&width=720&suffix=)
 
 
 ## 阅微草堂笔记
@@ -48,6 +48,12 @@ __Sanjoy Mahajan__
 __司马迁__
 
 ![Progress](https://progress-bar.dev/7/?scale=110&title=史记%20李将军列传%20匈奴列传%20%20%20%20%20%20%20%20%20&width=720&suffix=)
+
+## Justice: What's the Right Thing to Do?
+
+__Michael Sandel__
+
+![Progress](https://progress-bar.dev/0/?scale=384&title=Justice&width=720&suffix=)
 
 ## 子不语
 
