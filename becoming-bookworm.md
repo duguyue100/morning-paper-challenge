@@ -24,6 +24,13 @@ __加藤正夫__
 
 ![Progress](https://progress-bar.dev/208/?scale=208&title=怎样学下围棋%20%20%20%20%20&width=720&suffix=)
 
+## 下三手的判断 布局
+
+__加藤正夫__
+
+![Progress](https://progress-bar.dev/0/?scale=183&title=怎样学下围棋%20%20%20%20%20&width=720&suffix=)
+
+
 ## 阅微草堂笔记
 
 __纪昀__
