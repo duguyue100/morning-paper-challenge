@@ -9,14 +9,14 @@ Let the reading begains.
 
 ### First Challenge (Start: July 16th, Duration: 6 Weeks)
 
-| M | T | W | T      | F       | S      | S |
-|---|---|---|--------|---------|--------|---|
-|   |   |   | :tada: | :tada:  | :tada: |   |
-|   |   |   |        |         |        |   |
-|   |   |   |        |         |        |   |
-|   |   |   |        |         |        |   |
-|   |   |   |        |         |        |   |
-|   |   |   |        |         |        |   |
+| M       | T | W | T      | F       | S      | S |
+|---------|---|---|--------|---------|--------|---|
+|         |   |   | :tada: | :tada:  | :tada: |   |
+| :tada:  |   |   |        |         |        |   |
+|         |   |   |        |         |        |   |
+|         |   |   |        |         |        |   |
+|         |   |   |        |         |        |   |
+|         |   |   |        |         |        |   |
 
 ## 怎样学下围棋
 
@@ -41,7 +41,7 @@ __纪昀__
 
 __Sanjoy Mahajan__
 
-![Progress](https://progress-bar.dev/1/?scale=121&title=Street-Fighting%20Mathematics&width=720&suffix=)
+![Progress](https://progress-bar.dev/12/?scale=121&title=Street-Fighting%20Mathematics&width=720&suffix=)
 
 ## 史记 李将军列传 匈奴列传
 
