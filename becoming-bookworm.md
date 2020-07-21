@@ -9,14 +9,14 @@ Let the reading begains.
 
 ### First Challenge (Start: July 16th, Duration: 6 Weeks)
 
-| M       | T | W | T      | F       | S      | S |
-|---------|---|---|--------|---------|--------|---|
-|         |   |   | :tada: | :tada:  | :tada: |   |
-| :tada:  |   |   |        |         |        |   |
-|         |   |   |        |         |        |   |
-|         |   |   |        |         |        |   |
-|         |   |   |        |         |        |   |
-|         |   |   |        |         |        |   |
+| M      | T      | W | T      | F      | S      | S |
+|--------|--------|---|--------|--------|--------|---|
+|        |        |   | :tada: | :tada: | :tada: |   |
+| :tada: | :tada: |   |        |        |        |   |
+|        |        |   |        |        |        |   |
+|        |        |   |        |        |        |   |
+|        |        |   |        |        |        |   |
+|        |        |   |        |        |        |   |
 
 ## 怎样学下围棋
 
@@ -35,7 +35,7 @@ __加藤正夫__
 
 __纪昀__
 
-![Progress](https://progress-bar.dev/58/?scale=591&title=阅微草堂笔记%20%20%20%20%20&width=720&suffix=)
+![Progress](https://progress-bar.dev/63/?scale=591&title=阅微草堂笔记%20%20%20%20%20&width=720&suffix=)
 
 ## Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving
 
