@@ -70,7 +70,7 @@ __2020-07-20__: [Invertible Image Rescaling](https://arxiv.org/pdf/2005.05650.pd
 
 __2020-07-21__: [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/pdf/1905.09272.pdf) :tada:
 
-__2020-07-22__: [Automatic Shortcut Removal for Self-Supervised Representation Learning](https://arxiv.org/pdf/2002.08822.pdf)
+__2020-07-22__: [Automatic Shortcut Removal for Self-Supervised Representation Learning](https://arxiv.org/pdf/2002.08822.pdf) :tada:
 
 __2020-07-23__: [It’s Not What Machines Can Learn, It’s What We Cannot Teach](https://arxiv.org/pdf/2002.09398.pdf)
 
