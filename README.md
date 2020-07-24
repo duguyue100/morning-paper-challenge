@@ -78,6 +78,22 @@ __2020-07-24__: [LEEP: A New Measure to Evaluate Transferability of Learned Repr
 
 __2020-07-25__: [Self-supervised Label Augmentation via Input Transformations](https://arxiv.org/pdf/1910.05872.pdf)
 
+__2020-07-26__: Stochastic Systems Review: Statistical Methods
+
+__2020-07-27__: Stochastic Systems Review: ARMA
+
+__2020-07-28__: Stochastic Systems Review: Exercise
+
+__2020-07-29__: Stochastic Systems Review: Exercise
+
+__2020-07-30__: Stochastic Systems Review: Exercise
+
+__2020-07-31__: Stochastic Systems Review: Exercise
+
+__2020-08-01__: Stochastic Systems Review: Exercise
+
+__2020-08-02__: Stochastic Systems Review: Exercise
+
 ## First Morning Paper Challenge
 
 The first morning paper challenge is archived at [here](./first-challenge.md).
