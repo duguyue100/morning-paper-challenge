@@ -12,7 +12,7 @@ Let the reading begains.
 | M      | T      | W      | T      | F      | S      | S |
 |--------|--------|--------|--------|--------|--------|---|
 |        |        |        | :tada: | :tada: | :tada: |   |
-| :tada: | :tada: | :tada: | :tada: | :tada: |        |   |
+| :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |   |
 |        |        |        |        |        |        |   |
 |        |        |        |        |        |        |   |
 |        |        |        |        |        |        |   |
@@ -35,7 +35,7 @@ __加藤正夫__
 
 __纪昀__
 
-![Progress](https://progress-bar.dev/63/?scale=591&title=阅微草堂笔记%20%20%20%20%20&width=720&suffix=)
+![Progress](https://progress-bar.dev/69/?scale=591&title=阅微草堂笔记%20%20%20%20%20&width=720&suffix=)
 
 ## Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving
 
