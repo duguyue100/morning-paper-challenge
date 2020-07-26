@@ -80,19 +80,19 @@ __2020-07-25__: [Self-supervised Label Augmentation via Input Transformations](h
 
 __2020-07-26__: Stochastic Systems Review: Statistical Methods :tada:
 
-__2020-07-27__: Stochastic Systems Review: ARMA
+__2020-07-27__: [Learning Speech Representations from Raw Audio by Joint Audiovisual Self-Supervision](https://openreview.net/pdf?id=gp8Hkp9y0bw)
 
-__2020-07-28__: Stochastic Systems Review: Exercise
+__2020-07-28__: [Investigating Self-supervised Pre-training for End-to-end Speech Translation](https://openreview.net/pdf?id=SR2L__h9q9p)
 
-__2020-07-29__: Stochastic Systems Review: Exercise
+__2020-07-29__: [Using Self-Supervised Learning of Birdsong for Downstream Industrial Audio Classification](https://openreview.net/pdf?id=_P9LyJ5pMDb)
 
-__2020-07-30__: Stochastic Systems Review: Exercise
+__2020-07-30__: 
 
-__2020-07-31__: Stochastic Systems Review: Exercise
+__2020-07-31__: 
 
-__2020-08-01__: Stochastic Systems Review: Exercise
+__2020-08-01__: 
 
-__2020-08-02__: Stochastic Systems Review: Exercise
+__2020-08-02__: 
 
 ## First Morning Paper Challenge
 
