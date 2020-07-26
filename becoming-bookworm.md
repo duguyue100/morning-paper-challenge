@@ -9,14 +9,14 @@ Let the reading begains.
 
 ### First Challenge (Start: July 16th, Duration: 6 Weeks)
 
-| M      | T      | W      | T      | F      | S      | S |
-|--------|--------|--------|--------|--------|--------|---|
-|        |        |        | :tada: | :tada: | :tada: |   |
-| :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |   |
-|        |        |        |        |        |        |   |
-|        |        |        |        |        |        |   |
-|        |        |        |        |        |        |   |
-|        |        |        |        |        |        |   |
+| M      | T      | W      | T      | F      | S      | S      |
+|--------|--------|--------|--------|--------|--------|--------|
+|        |        |        | :tada: | :tada: | :tada: |        |
+| :tada: | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |
+|        |        |        |        |        |        |        |
+|        |        |        |        |        |        |        |
+|        |        |        |        |        |        |        |
+|        |        |        |        |        |        |        |
 
 ## 怎样学下围棋
 
@@ -47,7 +47,7 @@ __Sanjoy Mahajan__
 
 __司马迁__
 
-![Progress](https://progress-bar.dev/26/?scale=110&title=史记%20李将军列传%20匈奴列传%20%20%20%20%20%20%20%20%20&width=720&suffix=)
+![Progress](https://progress-bar.dev/60/?scale=110&title=史记%20李将军列传%20匈奴列传%20%20%20%20%20%20%20%20%20&width=720&suffix=)
 
 ## Justice: What's the Right Thing to Do?
 
