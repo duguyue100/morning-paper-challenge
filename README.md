@@ -88,7 +88,7 @@ __2020-07-29__: [Using Self-Supervised Learning of Birdsong for Downstream Indus
 
 __2020-07-30__: [Combined projection and kernel basis functions for classification in evolutionary neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231209001131)
 
-__2020-07-31__: [One Network to Solve Them All — Solving Linear Inverse Problems using Deep Projection Models])(https://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_One_Network_to_ICCV_2017_paper.pdf)
+__2020-07-31__: [One Network to Solve Them All — Solving Linear Inverse Problems using Deep Projection Models](https://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_One_Network_to_ICCV_2017_paper.pdf)
 
 __2020-08-01__: 
 
