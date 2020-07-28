@@ -90,7 +90,7 @@ __2020-07-30__: [Combined projection and kernel basis functions for classificati
 
 __2020-07-31__: [One Network to Solve Them All — Solving Linear Inverse Problems using Deep Projection Models](https://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_One_Network_to_ICCV_2017_paper.pdf)
 
-__2020-08-01__: 
+__2020-08-01__: [Towards Learning Convolutions from Scratch](https://arxiv.org/pdf/2007.13657.pdf)
 
 __2020-08-02__: 
 
