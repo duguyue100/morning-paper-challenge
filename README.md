@@ -8,7 +8,7 @@
 
 _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
-![Progress](https://progress-bar.dev/36/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/37/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-06-22__: [Light-weight calibrator: a separable component for unsupervised domain adaptation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Light-weight_Calibrator_A_Separable_Component_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) :tada:
 
@@ -82,7 +82,7 @@ __2020-07-26__: Stochastic Systems Review: Statistical Methods :tada:
 
 __2020-07-27__: [Learning Speech Representations from Raw Audio by Joint Audiovisual Self-Supervision](https://openreview.net/pdf?id=gp8Hkp9y0bw) :tada:
 
-__2020-07-28__: [Investigating Self-supervised Pre-training for End-to-end Speech Translation](https://openreview.net/pdf?id=SR2L__h9q9p)
+__2020-07-28__: [Investigating Self-supervised Pre-training for End-to-end Speech Translation](https://openreview.net/pdf?id=SR2L__h9q9p) :tada:
 
 __2020-07-29__: [Using Self-Supervised Learning of Birdsong for Downstream Industrial Audio Classification](https://openreview.net/pdf?id=_P9LyJ5pMDb)
 
