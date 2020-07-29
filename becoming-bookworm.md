@@ -13,7 +13,7 @@ Let the reading begains.
 |--------|--------|--------|--------|--------|--------|--------|
 |        |        |        | :tada: | :tada: | :tada: |        |
 | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |
-| :tada: |        |        |        |        |        |        |
+| :tada: | :tada: |        |        |        |        |        |
 |        |        |        |        |        |        |        |
 |        |        |        |        |        |        |        |
 |        |        |        |        |        |        |        |
@@ -47,7 +47,7 @@ __Sanjoy Mahajan__
 
 __司马迁__
 
-![Progress](https://progress-bar.dev/89/?scale=110&title=史记%20李将军列传%20匈奴列传%20%20%20%20%20%20%20%20%20&width=720&suffix=)
+![Progress](https://progress-bar.dev/101/?scale=110&title=史记%20李将军列传%20匈奴列传%20%20%20%20%20%20%20%20%20&width=720&suffix=)
 
 ## Justice: What's the Right Thing to Do?
 
