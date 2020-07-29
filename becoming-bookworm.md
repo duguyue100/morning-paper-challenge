@@ -13,7 +13,7 @@ Let the reading begains.
 |--------|--------|--------|--------|--------|--------|--------|
 |        |        |        | :tada: | :tada: | :tada: |        |
 | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |
-| :tada: | :tada: |        |        |        |        |        |
+| :tada: | :tada: | :tada: |        |        |        |        |
 |        |        |        |        |        |        |        |
 |        |        |        |        |        |        |        |
 |        |        |        |        |        |        |        |
@@ -28,7 +28,7 @@ __加藤正夫__
 
 __加藤正夫__
 
-![Progress](https://progress-bar.dev/27?scale=183&title=下三手的判断%20布局%20%20%20%20%20%20&width=720&suffix=)
+![Progress](https://progress-bar.dev/45/?scale=183&title=下三手的判断%20布局%20%20%20%20%20%20&width=720&suffix=)
 
 
 ## 阅微草堂笔记
