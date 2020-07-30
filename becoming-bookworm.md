@@ -13,7 +13,7 @@ Let the reading begains.
 |--------|--------|--------|--------|--------|--------|--------|
 |        |        |        | :tada: | :tada: | :tada: |        |
 | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |
-| :tada: | :tada: | :tada: |        |        |        |        |
+| :tada: | :tada: | :tada: | :tada: |        |        |        |
 |        |        |        |        |        |        |        |
 |        |        |        |        |        |        |        |
 |        |        |        |        |        |        |        |
@@ -41,7 +41,7 @@ __纪昀__
 
 __Sanjoy Mahajan__
 
-![Progress](https://progress-bar.dev/12/?scale=121&title=Street-Fighting%20Mathematics&width=720&suffix=)
+![Progress](https://progress-bar.dev/21/?scale=121&title=Street-Fighting%20Mathematics&width=720&suffix=)
 
 ## 史记 李将军列传 匈奴列传
 
