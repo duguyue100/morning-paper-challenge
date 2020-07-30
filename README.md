@@ -8,7 +8,7 @@
 
 _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
-![Progress](https://progress-bar.dev/38/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/39/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-06-22__: [Light-weight calibrator: a separable component for unsupervised domain adaptation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Light-weight_Calibrator_A_Separable_Component_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) :tada:
 
@@ -86,7 +86,7 @@ __2020-07-28__: [Investigating Self-supervised Pre-training for End-to-end Speec
 
 __2020-07-29__: [Using Self-Supervised Learning of Birdsong for Downstream Industrial Audio Classification](https://openreview.net/pdf?id=_P9LyJ5pMDb) :tada:
 
-__2020-07-30__: [Combined projection and kernel basis functions for classification in evolutionary neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231209001131)
+__2020-07-30__: [Combined projection and kernel basis functions for classification in evolutionary neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231209001131) :tada: This is a cool paper before NN started to scale. Using two different activation function in a hidden layer is very particular.
 
 __2020-07-31__: [One Network to Solve Them All — Solving Linear Inverse Problems using Deep Projection Models](https://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_One_Network_to_ICCV_2017_paper.pdf)
 
