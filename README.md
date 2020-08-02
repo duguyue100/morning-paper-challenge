@@ -46,9 +46,9 @@ __2020-08-19__: [Hierarchical Foresight: Self-Supervised Learning of Long-Horizo
 
 __2020-08-20__: [A critical analysis of self-supervision, or what we can learn from a single image](http://www.openreview.net/pdf?id=B1esx6EYvr)
 
-__2020-08-21__:
+__2020-08-21__: [Mogrifier LSTM](http://www.openreview.net/pdf?id=SJe5P6EYvS)
 
-__2020-08-22__:
+__2020-08-22__: [Understanding Generalization in Recurrent Neural Networks](http://www.openreview.net/pdf?id=rkgg6xBYDH)
 
 __2020-08-23__:
 
