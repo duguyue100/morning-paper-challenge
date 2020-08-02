@@ -92,7 +92,7 @@ __2020-07-31__: [One Network to Solve Them All — Solving Linear Inverse Proble
 
 __2020-08-01__: [Towards Learning Convolutions from Scratch](https://arxiv.org/pdf/2007.13657.pdf) :tada:
 
-__2020-08-02__: 
+__2020-08-02__: [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
 
 ## First Morning Paper Challenge
 
