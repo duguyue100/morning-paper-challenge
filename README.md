@@ -92,6 +92,8 @@ __2020-09-11__: [Continual Unsupervised Representation Learning](https://papers.
 
 __2020-09-12__: [On the Convergence Rate of Training Recurrent Neural Networks](https://papers.nips.cc/paper/8893-on-the-convergence-rate-of-training-recurrent-neural-networks.pdf)
 
+__2020-09-13__: [Training Image Estimators without Image Ground Truth](https://papers.nips.cc/paper/8514-training-image-estimators-without-image-ground-truth.pdf)
+
 
 ## First Morning Paper Challenge
 
