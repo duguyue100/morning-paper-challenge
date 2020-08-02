@@ -10,41 +10,63 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 ![Progress](https://progress-bar.dev/0/?scale=42&title=MPC&width=360&suffix=)
 
-__2020-08-03__:
+__2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB)
 
-__2020-08-04__:
+__2020-08-04__: [Principled Weight Initialization for Hypernetworks](https://openreview.net/pdf?id=Hkxzx0NtDB)
 
-__2020-08-05__:
+__2020-08-05__: [Empirical Studies on the Properties of Linear Regions in Deep Neural Networks](https://openreview.net/pdf?id=SkeFl1HKwr)
 
-__2020-08-06__:
+__2020-08-06__: [Don't Use Large Mini-batches, Use Local SGD](http://www.openreview.net/pdf?id=B1eyO1BFPr)
 
-__2020-08-07__:
+__2020-08-07__: [You Only Train Once: Loss-Conditional Training of Deep Networks](http://www.openreview.net/pdf?id=HyxY6JHKwr)
 
-__2020-08-08__:
+__2020-08-08__: [Smooth markets: A basic mechanism for organizing gradient-based learners](http://www.openreview.net/pdf?id=B1xMEerYvB)
 
-__2020-08-09__:
+__2020-08-09__: [Training binary neural networks with real-to-binary convolutions](http://www.openreview.net/pdf?id=BJg4NgBKvH)
 
-__2020-08-10__:
+__2020-08-10__: [Editable Neural Networks](http://www.openreview.net/pdf?id=HJedXaEtvS)
 
-__2020-08-11__:
+__2020-08-11__: [Contrastive Representation Distillation](http://www.openreview.net/pdf?id=SkgpBJrtvS)
 
-__2020-08-12__:
+__2020-08-12__: [LAMOL: LAnguage MOdeling for Lifelong Language Learning](http://www.openreview.net/pdf?id=Skgxcn4YDS)
 
-__2020-08-13__:
+__2020-08-13__: [Jelly Bean World: A Testbed for Never-Ending Learning](http://www.openreview.net/pdf?id=Byx_YAVYPH)
 
-__2020-08-14__:
+__2020-08-14__: [Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML](http://www.openreview.net/pdf?id=rkgMkCEtPB)
 
-__2020-08-15__:
+__2020-08-15__: [Learning to solve the credit assignment problem](http://www.openreview.net/pdf?id=ByeUBANtvB)
 
-__2020-08-16__:
+__2020-08-16__: [And the Bit Goes Down: Revisiting the Quantization of Neural Networks](http://www.openreview.net/pdf?id=rJehVyrKwH)
 
-__2020-08-17__:
+__2020-08-17__: [Continual learning with hypernetworks](http://www.openreview.net/pdf?id=SJgwNerKvB)
 
-__2020-08-18__:
+__2020-08-18__: [A critical analysis of self-supervision, or what we can learn from a single image](http://www.openreview.net/pdf?id=B1esx6EYvr)
 
-__2020-08-19__:
+__2020-08-19__: [Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation](http://www.openreview.net/pdf?id=H1gzR2VKDH)
 
-__2020-08-20__:
+__2020-08-20__: [A critical analysis of self-supervision, or what we can learn from a single image](http://www.openreview.net/pdf?id=B1esx6EYvr)
+
+__2020-08-21__:
+
+__2020-08-22__:
+
+__2020-08-23__:
+
+__2020-08-24__:
+
+__2020-08-25__:
+
+__2020-08-26__:
+
+__2020-08-27__:
+
+__2020-08-28__:
+
+__2020-08-29__:
+
+__2020-08-30__:
+
+__2020-08-31__:
 
 
 ## First Morning Paper Challenge
