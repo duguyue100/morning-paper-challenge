@@ -10,13 +10,13 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/2/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/3/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
 __2020-08-04__: [Principled Weight Initialization for Hypernetworks](https://openreview.net/pdf?id=H1lma24tPB) :tada:
 
-__2020-08-05__: [Empirical Studies on the Properties of Linear Regions in Deep Neural Networks](https://openreview.net/pdf?id=SkeFl1HKwr)
+__2020-08-05__: [Empirical Studies on the Properties of Linear Regions in Deep Neural Networks](https://openreview.net/pdf?id=SkeFl1HKwr) :tada: I understand the idea and the tool this paper presents, but I lost my interest in reading all the analysis.
 
 __2020-08-06__: [Don't Use Large Mini-batches, Use Local SGD](http://www.openreview.net/pdf?id=B1eyO1BFPr)
 
