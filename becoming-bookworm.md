@@ -14,7 +14,7 @@ Let the reading begains.
 |        |        |        | :tada: | :tada: | :tada: |        |
 | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |
 | :tada: | :tada: | :tada: | :tada: | :tada: |        |        |
-|        |        | :tada: |        |        |        |        |
+|        |        | :tada: | :tada: |        |        |        |
 |        |        |        |        |        |        |        |
 |        |        |        |        |        |        |        |
 
@@ -53,7 +53,7 @@ __司马迁__
 
 __Michael Sandel__
 
-![Progress](https://progress-bar.dev/26/?scale=384&title=Justice&width=720&suffix=)
+![Progress](https://progress-bar.dev/36/?scale=384&title=Justice&width=720&suffix=)
 
 ## 子不语
 
