@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/4/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/5/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -20,7 +20,7 @@ __2020-08-05__: [Empirical Studies on the Properties of Linear Regions in Deep N
 
 __2020-08-06__: [Don't Use Large Mini-batches, Use Local SGD](http://www.openreview.net/pdf?id=B1eyO1BFPr) :tada:
 
-__2020-08-07__: [You Only Train Once: Loss-Conditional Training of Deep Networks](http://www.openreview.net/pdf?id=HyxY6JHKwr)
+__2020-08-07__: [You Only Train Once: Loss-Conditional Training of Deep Networks](http://www.openreview.net/pdf?id=HyxY6JHKwr) :tada: I like this paper very much, and I would check out the code.
 
 __2020-08-08__: [Smooth markets: A basic mechanism for organizing gradient-based learners](http://www.openreview.net/pdf?id=B1xMEerYvB)
 
