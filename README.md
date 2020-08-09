@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/6/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/7/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -24,7 +24,7 @@ __2020-08-07__: [You Only Train Once: Loss-Conditional Training of Deep Networks
 
 __2020-08-08__: [Smooth markets: A basic mechanism for organizing gradient-based learners](http://www.openreview.net/pdf?id=B1xMEerYvB) :tada: I lost the train of thoughts into section 4. I don't think I have enough knowledge or experience to interpret and understand properly of this paper although I catch the basic idea. Some of the settings of the paper are far from mainstream neural gaming settings which are hard to imagine from my side.
 
-__2020-08-09__: [Training binary neural networks with real-to-binary convolutions](http://www.openreview.net/pdf?id=BJg4NgBKvH)
+__2020-08-09__: [Training binary neural networks with real-to-binary convolutions](http://www.openreview.net/pdf?id=BJg4NgBKvH) :tada: This paper is clean, to the point, and actionable.
 
 __2020-08-10__: [Editable Neural Networks](http://www.openreview.net/pdf?id=HJedXaEtvS)
 
