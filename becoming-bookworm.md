@@ -59,7 +59,7 @@ __Michael Sandel__
 
 __Mark F. Bear, Barry W. Connors Michael A. Paradiso__
 
-![Progress](https://progress-bar.dev/72/?scale=262&title=Neuroscience&width=720&suffix=)
+![Progress](https://progress-bar.dev/28/?scale=262&title=Neuroscience&width=720&suffix=)
 
 
 ## 子不语
