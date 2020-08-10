@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/7/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/8/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -26,7 +26,7 @@ __2020-08-08__: [Smooth markets: A basic mechanism for organizing gradient-based
 
 __2020-08-09__: [Training binary neural networks with real-to-binary convolutions](http://www.openreview.net/pdf?id=BJg4NgBKvH) :tada: This paper is clean, to the point, and actionable.
 
-__2020-08-10__: [Editable Neural Networks](http://www.openreview.net/pdf?id=HJedXaEtvS)
+__2020-08-10__: [Editable Neural Networks](http://www.openreview.net/pdf?id=HJedXaEtvS) :tada: I like the take of the problem and I somewhat considered a similar problem. This may give new ideas of fast patching networks and quick transfer that we wish to have.
 
 __2020-08-11__: [Contrastive Representation Distillation](http://www.openreview.net/pdf?id=SkgpBJrtvS)
 
