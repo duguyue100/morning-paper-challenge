@@ -15,7 +15,7 @@ Let the reading begains.
 | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |
 | :tada: | :tada: | :tada: | :tada: | :tada: |        |        |
 |        |        | :tada: | :tada: | :tada: |        | :tada: |
-|        |        |        |        |        |        |        |
+|        | :tada: |        |        |        |        |        |
 |        |        |        |        |        |        |        |
 
 ## 怎样学下围棋
@@ -59,7 +59,7 @@ __Michael Sandel__
 
 __Mark F. Bear, Barry W. Connors Michael A. Paradiso__
 
-![Progress](https://progress-bar.dev/28/?scale=262&title=Neuroscience&width=720&suffix=)
+![Progress](https://progress-bar.dev/38/?scale=262&title=Neuroscience&width=720&suffix=)
 
 
 ## 子不语
