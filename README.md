@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/8/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/9/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -28,7 +28,7 @@ __2020-08-09__: [Training binary neural networks with real-to-binary convolution
 
 __2020-08-10__: [Editable Neural Networks](http://www.openreview.net/pdf?id=HJedXaEtvS) :tada: I like the take of the problem and I somewhat considered a similar problem. This may give new ideas of fast patching networks and quick transfer that we wish to have.
 
-__2020-08-11__: [Contrastive Representation Distillation](http://www.openreview.net/pdf?id=SkgpBJrtvS)
+__2020-08-11__: [Contrastive Representation Distillation](http://www.openreview.net/pdf?id=SkgpBJrtvS) :tada: I like the take of this paper and the use of contrastive loss to perform distillation. It might generate some extra effect in domain such as class incremental learning.
 
 __2020-08-12__: [LAMOL: LAnguage MOdeling for Lifelong Language Learning](http://www.openreview.net/pdf?id=Skgxcn4YDS)
 
