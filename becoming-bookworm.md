@@ -15,7 +15,7 @@ Let the reading begains.
 | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: | :tada: |
 | :tada: | :tada: | :tada: | :tada: | :tada: |        |        |
 |        |        | :tada: | :tada: | :tada: |        | :tada: |
-|        | :tada: |        |        |        |        |        |
+|        | :tada: |        | :tada: |        |        |        |
 |        |        |        |        |        |        |        |
 
 ## 怎样学下围棋
@@ -53,7 +53,7 @@ __司马迁__
 
 __Michael Sandel__
 
-![Progress](https://progress-bar.dev/36/?scale=384&title=Justice&width=720&suffix=)
+![Progress](https://progress-bar.dev/48/?scale=384&title=Justice&width=720&suffix=)
 
 ## Neuroscience: Exploring the Brain - Foundations
 
