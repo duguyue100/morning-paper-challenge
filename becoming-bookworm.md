@@ -2,7 +2,7 @@
 
 To increase my capability in reading. Alongside my morning paper challenge, from today (July 16th), I will start a brand new challenge in reading books.
 
-Let the reading begains.
+Let the reading begin.
 
 
 ## Matrix of Time
