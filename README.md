@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/10/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/11/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -32,7 +32,7 @@ __2020-08-11__: [Contrastive Representation Distillation](http://www.openreview.
 
 __2020-08-12__: [LAMOL: LAnguage MOdeling for Lifelong Language Learning](http://www.openreview.net/pdf?id=Skgxcn4YDS) :tada: This is a new take that uses the generation capability of network to prevent forgetting, which is cool.
 
-__2020-08-13__: [Jelly Bean World: A Testbed for Never-Ending Learning](http://www.openreview.net/pdf?id=Byx_YAVYPH)
+__2020-08-13__: [Jelly Bean World: A Testbed for Never-Ending Learning](http://www.openreview.net/pdf?id=Byx_YAVYPH) :tada: Good to know there is a tool like this. Most likely not so useful for me right now.
 
 __2020-08-14__: [Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML](http://www.openreview.net/pdf?id=rkgMkCEtPB)
 
