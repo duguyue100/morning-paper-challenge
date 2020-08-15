@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/12/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/13/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -36,7 +36,7 @@ __2020-08-13__: [Jelly Bean World: A Testbed for Never-Ending Learning](http://w
 
 __2020-08-14__: [Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML](http://www.openreview.net/pdf?id=rkgMkCEtPB) :tada: what a good treat! This paper confirms my intutition over MAML-type learning algorithm which they does not model rapid learning properly. If we follow this paper's opinion. Then MAML can be re-interpreted into learning parameters from a ensemble of inner-loop optimized task networks. This brings the paradigm more closer to metric based few-shot learning algorithms.
 
-__2020-08-15__: [Learning to solve the credit assignment problem](http://www.openreview.net/pdf?id=ByeUBANtvB)
+__2020-08-15__: [Learning to solve the credit assignment problem](http://www.openreview.net/pdf?id=ByeUBANtvB) :tada: Cool direction to think about biologically plausible learning. The math is not crazy, however I lost my interest in reading it becasue BP reasoning is in general too messy for me for my one-hour reading.
 
 __2020-08-16__: [And the Bit Goes Down: Revisiting the Quantization of Neural Networks](http://www.openreview.net/pdf?id=rJehVyrKwH)
 
