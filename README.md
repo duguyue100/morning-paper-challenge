@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/13/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/14/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -38,7 +38,7 @@ __2020-08-14__: [Rapid Learning or Feature Reuse? Towards Understanding the Effe
 
 __2020-08-15__: [Learning to solve the credit assignment problem](http://www.openreview.net/pdf?id=ByeUBANtvB) :tada: Cool direction to think about biologically plausible learning. The math is not crazy, however I lost my interest in reading it becasue BP reasoning is in general too messy for me for my one-hour reading.
 
-__2020-08-16__: [And the Bit Goes Down: Revisiting the Quantization of Neural Networks](http://www.openreview.net/pdf?id=rJehVyrKwH)
+__2020-08-16__: [And the Bit Goes Down: Revisiting the Quantization of Neural Networks](http://www.openreview.net/pdf?id=rJehVyrKwH) :tada: Have to admit I didn't pay too much attention over this paper. but the idea is cool.
 
 __2020-08-17__: [Continual learning with hypernetworks](http://www.openreview.net/pdf?id=SJgwNerKvB)
 
