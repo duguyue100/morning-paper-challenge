@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/14/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/15/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -40,7 +40,7 @@ __2020-08-15__: [Learning to solve the credit assignment problem](http://www.ope
 
 __2020-08-16__: [And the Bit Goes Down: Revisiting the Quantization of Neural Networks](http://www.openreview.net/pdf?id=rJehVyrKwH) :tada: Have to admit I didn't pay too much attention over this paper. but the idea is cool.
 
-__2020-08-17__: [Continual learning with hypernetworks](http://www.openreview.net/pdf?id=SJgwNerKvB)
+__2020-08-17__: [Continual learning with hypernetworks](http://www.openreview.net/pdf?id=SJgwNerKvB) :tada: a great use of hypernetworks, great work. my strongest opinion is towards the unknown task identity although this is a problem to all CL algorithms. For the sake of evaluation, this may not be a problem at all. Again, I still have a strong, strong feeling about the connection between UL, Fewshot Learning and CL. There has to be a way.
 
 __2020-08-18__: [A critical analysis of self-supervision, or what we can learn from a single image](http://www.openreview.net/pdf?id=B1esx6EYvr)
 
