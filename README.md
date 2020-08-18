@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/15/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/16/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -42,7 +42,7 @@ __2020-08-16__: [And the Bit Goes Down: Revisiting the Quantization of Neural Ne
 
 __2020-08-17__: [Continual learning with hypernetworks](http://www.openreview.net/pdf?id=SJgwNerKvB) :tada: a great use of hypernetworks, great work. my strongest opinion is towards the unknown task identity although this is a problem to all CL algorithms. For the sake of evaluation, this may not be a problem at all. Again, I still have a strong, strong feeling about the connection between UL, Fewshot Learning and CL. There has to be a way.
 
-__2020-08-18__: [A critical analysis of self-supervision, or what we can learn from a single image](http://www.openreview.net/pdf?id=B1esx6EYvr)
+__2020-08-18__: [A critical analysis of self-supervision, or what we can learn from a single image](http://www.openreview.net/pdf?id=B1esx6EYvr) :tada: Great contribution on sample efficiency side of self-supervision. I like it very much.
 
 __2020-08-19__: [Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation](http://www.openreview.net/pdf?id=H1gzR2VKDH)
 
