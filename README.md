@@ -46,7 +46,7 @@ __2020-08-18__: [A critical analysis of self-supervision, or what we can learn f
 
 __2020-08-19__: [Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation](http://www.openreview.net/pdf?id=H1gzR2VKDH) :tada: reminds me very much for the world model. This one by concept is cool. And I'm glad to see that self-supervised learning in robotics tasks via learning video prediction.
 
-__2020-08-20__: [A critical analysis of self-supervision, or what we can learn from a single image](http://www.openreview.net/pdf?id=B1esx6EYvr)
+__2020-08-20__: [Self-labelling via simultaneous clustering and representation learning](https://openreview.net/pdf?id=Hyx-jyBFPr)
 
 __2020-08-21__: [Mogrifier LSTM](http://www.openreview.net/pdf?id=SJe5P6EYvS)
 
