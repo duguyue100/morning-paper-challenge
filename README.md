@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/18/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/19/scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -48,7 +48,7 @@ __2020-08-19__: [Hierarchical Foresight: Self-Supervised Learning of Long-Horizo
 
 __2020-08-20__: [Self-labelling via simultaneous clustering and representation learning](https://openreview.net/pdf?id=Hyx-jyBFPr) :tada: This is a fresh take on self-supervised learning where the clustering is done by solving optimal transport problem. I should read more about pseudo-labeling kind of literature.
 
-__2020-08-21__: [Mogrifier LSTM](http://www.openreview.net/pdf?id=SJe5P6EYvS)
+__2020-08-21__: [Mogrifier LSTM](http://www.openreview.net/pdf?id=SJe5P6EYvS) :tada: It always to see an extension over LSTM. To me, the proposed addition is a interative filtering process embedded at each step update, effectively making the whole neural network much more deep. Isn't this somewhat related to Recurrent Highway Networks?
 
 __2020-08-22__: [Understanding Generalization in Recurrent Neural Networks](http://www.openreview.net/pdf?id=rkgg6xBYDH)
 
