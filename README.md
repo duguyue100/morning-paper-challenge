@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/19/scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/20/scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -50,7 +50,7 @@ __2020-08-20__: [Self-labelling via simultaneous clustering and representation l
 
 __2020-08-21__: [Mogrifier LSTM](http://www.openreview.net/pdf?id=SJe5P6EYvS) :tada: It always to see an extension over LSTM. To me, the proposed addition is a interative filtering process embedded at each step update, effectively making the whole neural network much more deep. Isn't this somewhat related to Recurrent Highway Networks?
 
-__2020-08-22__: [Understanding Generalization in Recurrent Neural Networks](http://www.openreview.net/pdf?id=rkgg6xBYDH)
+__2020-08-22__: [Understanding Generalization in Recurrent Neural Networks](http://www.openreview.net/pdf?id=rkgg6xBYDH) :tada: Obvious difficulty to understand it at late night.
 
 __2020-08-23__: [High Fidelity Video Prediction with Large Stochastic Recurrent Neural Networks](https://papers.nips.cc/paper/8303-high-fidelity-video-prediction-with-large-stochastic-recurrent-neural-networks.pdf)
 
