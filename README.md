@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/21/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/22/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -54,7 +54,7 @@ __2020-08-22__: [Understanding Generalization in Recurrent Neural Networks](http
 
 __2020-08-23__: [High Fidelity Video Prediction with Large Stochastic Recurrent Neural Networks](https://papers.nips.cc/paper/8303-high-fidelity-video-prediction-with-large-stochastic-recurrent-neural-networks.pdf) :tada: I never thought the convolution and ConvLSTM hybrid can be done at two levels, and it's so obvious. THis is a great paper!
 
-__2020-08-24__: [Experience Replay for Continual Learning](https://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf)
+__2020-08-24__: [Experience Replay for Continual Learning](https://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf) :tada: I hardly understand it because it's beyond my knowledge scope.
 
 __2020-08-25__: [Deep ReLU Networks Have Surprisingly Few Activation Patterns](https://papers.nips.cc/paper/8328-deep-relu-networks-have-surprisingly-few-activation-patterns.pdf)
 
