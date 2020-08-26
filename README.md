@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/23/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/24/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -58,7 +58,7 @@ __2020-08-24__: [Experience Replay for Continual Learning](https://papers.nips.c
 
 __2020-08-25__: [Deep ReLU Networks Have Surprisingly Few Activation Patterns](https://papers.nips.cc/paper/8328-deep-relu-networks-have-surprisingly-few-activation-patterns.pdf) :tada: cool paper, a lot to think about.
 
-__2020-08-26__: [Why Can't I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition](https://papers.nips.cc/paper/8372-why-cant-i-dance-in-the-mall-learning-to-mitigate-scene-bias-in-action-recognition.pdf)
+__2020-08-26__: [Why Can't I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition](https://papers.nips.cc/paper/8372-why-cant-i-dance-in-the-mall-learning-to-mitigate-scene-bias-in-action-recognition.pdf) :tada: What I like is how the author address the scene bias through those two losses that decreases scene dependencies and increases classification uncertainty. What I feel a bit short in this paper is that the author uses pretrained model to obtain pseduo-loss which needs training for other networks.
 
 __2020-08-27__: [Learning Perceptual Inference by Contrasting](https://papers.nips.cc/paper/8392-learning-perceptual-inference-by-contrasting.pdf)
 
