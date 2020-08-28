@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/25/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/26/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -62,7 +62,7 @@ __2020-08-26__: [Why Can't I Dance in the Mall? Learning to Mitigate Scene Bias 
 
 __2020-08-27__: [Learning Perceptual Inference by Contrasting](https://papers.nips.cc/paper/8392-learning-perceptual-inference-by-contrasting.pdf) :tada: First visual reasoning paper that I understand, cool results.
 
-__2020-08-28__: [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](https://papers.nips.cc/paper/8420-failing-loudly-an-empirical-study-of-methods-for-detecting-dataset-shift.pdf)
+__2020-08-28__: [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](https://papers.nips.cc/paper/8420-failing-loudly-an-empirical-study-of-methods-for-detecting-dataset-shift.pdf) :tada: As a tool, I think this paper provides a wide range of tests so that we can select for debugging our own network. Furthermore, this problem of dataset shift will be addressed someday in domains such as continual learning.
 
 __2020-08-29__: [Random deep neural networks are biased towards simple functions](https://papers.nips.cc/paper/8471-random-deep-neural-networks-are-biased-towards-simple-functions.pdf)
 
