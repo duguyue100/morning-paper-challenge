@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/27/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/28/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -66,7 +66,7 @@ __2020-08-28__: [Failing Loudly: An Empirical Study of Methods for Detecting Dat
 
 __2020-08-29__: [Random deep neural networks are biased towards simple functions](https://papers.nips.cc/paper/8471-random-deep-neural-networks-are-biased-towards-simple-functions.pdf) :tada: lesson learned.
 
-__2020-08-30__: [HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models](https://papers.nips.cc/paper/8605-hype-a-benchmark-for-human-eye-perceptual-evaluation-of-generative-models.pdf)
+__2020-08-30__: [HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models](https://papers.nips.cc/paper/8605-hype-a-benchmark-for-human-eye-perceptual-evaluation-of-generative-models.pdf) :tada: what a clever design!
 
 __2020-08-31__: [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://papers.nips.cc/paper/8618-deconstructing-lottery-tickets-zeros-signs-and-the-supermask.pdf)
 
