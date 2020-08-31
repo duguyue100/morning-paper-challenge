@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/28/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/29/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -68,7 +68,7 @@ __2020-08-29__: [Random deep neural networks are biased towards simple functions
 
 __2020-08-30__: [HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models](https://papers.nips.cc/paper/8605-hype-a-benchmark-for-human-eye-perceptual-evaluation-of-generative-models.pdf) :tada: what a clever design!
 
-__2020-08-31__: [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://papers.nips.cc/paper/8618-deconstructing-lottery-tickets-zeros-signs-and-the-supermask.pdf)
+__2020-08-31__: [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://papers.nips.cc/paper/8618-deconstructing-lottery-tickets-zeros-signs-and-the-supermask.pdf) :tada: It's a very cool paper to read, many insights for sparse neural networks. I like it.
 
 __2020-09-01__: [When does label smoothing help?](https://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf)
 
