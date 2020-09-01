@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/29/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/30/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -70,7 +70,7 @@ __2020-08-30__: [HYPE: A Benchmark for Human eYe Perceptual Evaluation of Genera
 
 __2020-08-31__: [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://papers.nips.cc/paper/8618-deconstructing-lottery-tickets-zeros-signs-and-the-supermask.pdf) :tada: It's a very cool paper to read, many insights for sparse neural networks. I like it.
 
-__2020-09-01__: [When does label smoothing help?](https://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf)
+__2020-09-01__: [When does label smoothing help?](https://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf) :tada: It's a empirical paper that I like. The label smoothing has many implications to other applications as well. As contrastive learning is also mainly relying on cross-entropy loss, this work may have more impact there.
 
 __2020-09-02__: [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf)
 
