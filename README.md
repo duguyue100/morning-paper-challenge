@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/30/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/31/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -72,7 +72,7 @@ __2020-08-31__: [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask
 
 __2020-09-01__: [When does label smoothing help?](https://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf) :tada: It's a empirical paper that I like. The label smoothing has many implications to other applications as well. As contrastive learning is also mainly relying on cross-entropy loss, this work may have more impact there.
 
-__2020-09-02__: [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf)
+__2020-09-02__: [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf) :tada: this is a cool research that examines the transfer capability of winning tickets.
 
 __2020-09-03__: [Incremental Few-Shot Learning with Attention Attractor Networks](https://papers.nips.cc/paper/8769-incremental-few-shot-learning-with-attention-attractor-networks.pdf)
 
