@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/31/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/32/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -74,7 +74,7 @@ __2020-09-01__: [When does label smoothing help?](https://papers.nips.cc/paper/8
 
 __2020-09-02__: [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf) :tada: this is a cool research that examines the transfer capability of winning tickets.
 
-__2020-09-03__: [Incremental Few-Shot Learning with Attention Attractor Networks](https://papers.nips.cc/paper/8769-incremental-few-shot-learning-with-attention-attractor-networks.pdf)
+__2020-09-03__: [Incremental Few-Shot Learning with Attention Attractor Networks](https://papers.nips.cc/paper/8769-incremental-few-shot-learning-with-attention-attractor-networks.pdf) :tada: an excellent system paper that uses and extends the old ideas. although i thought it can continously integrate the new classes, but then I realized it solves only the problem od base class+an additional few shot classes. every new set of few classes needs to adapt again.
 
 __2020-09-04__: [Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization](https://papers.nips.cc/paper/8971-latent-weights-do-not-exist-rethinking-binarized-neural-network-optimization.pdf)
 
