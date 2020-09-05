@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/33/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/3444/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -78,7 +78,7 @@ __2020-09-03__: [Incremental Few-Shot Learning with Attention Attractor Networks
 
 __2020-09-04__: [Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization](https://papers.nips.cc/paper/8971-latent-weights-do-not-exist-rethinking-binarized-neural-network-optimization.pdf) :tada: this paper is very easy to follow and the interpretation of the latent weights is genius. this is very refreshing. Can this work extend to low-precision scenario?
 
-__2020-09-05__: [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf)
+__2020-09-05__: [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) :tada: sort of cool. I like the idea, however the presentation style is too dnse for me and the model description part is just too confusing for me.
 
 __2020-09-06__: [How to Initialize your Network? Robust Initialization for WeightNorm & ResNets](https://papers.nips.cc/paper/9272-how-to-initialize-your-network-robust-initialization-for-weightnorm-resnets.pdf)
 
