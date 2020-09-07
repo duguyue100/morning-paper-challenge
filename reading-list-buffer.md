@@ -9,3 +9,7 @@ To reduce my effort in searching.
 3. [Surrogate Gradient Learning in Spiking Neural Networks](https://arxiv.org/pdf/1901.09948.pdf)
 
 4. [A tutorial on surrogate gradient learning in spiking neural networks](https://github.com/fzenke/spytorch)
+
+5. [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+
+6. [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)
