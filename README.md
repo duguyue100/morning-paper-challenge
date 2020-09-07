@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/35/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/36/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -82,7 +82,7 @@ __2020-09-05__: [This Looks Like That: Deep Learning for Interpretable Image Rec
 
 __2020-09-06__: [How to Initialize your Network? Robust Initialization for WeightNorm & ResNets](https://papers.nips.cc/paper/9272-how-to-initialize-your-network-robust-initialization-for-weightnorm-resnets.pdf) :tada: very straightforward, effective, hopefully a standard toolkit in the existing library.
 
-__2020-09-07__: [Gradient based sample selection for online continual learning](https://papers.nips.cc/paper/9354-gradient-based-sample-selection-for-online-continual-learning.pdf)
+__2020-09-07__: [Gradient based sample selection for online continual learning](https://papers.nips.cc/paper/9354-gradient-based-sample-selection-for-online-continual-learning.pdf) :tada: the idea is very refereshing. However, it doesn't seem to match with what I understand as STOA, maybe I'm wrong, maybe that's the cost of removing task boundary.
 
 __2020-09-08__: [DeepUSPS: Deep Robust Unsupervised Saliency Prediction via Self-supervision](https://papers.nips.cc/paper/8314-deepusps-deep-robust-unsupervised-saliency-prediction-via-self-supervision.pdf)
 
