@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/36/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/37/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -84,7 +84,7 @@ __2020-09-06__: [How to Initialize your Network? Robust Initialization for Weigh
 
 __2020-09-07__: [Gradient based sample selection for online continual learning](https://papers.nips.cc/paper/9354-gradient-based-sample-selection-for-online-continual-learning.pdf) :tada: the idea is very refereshing. However, it doesn't seem to match with what I understand as STOA, maybe I'm wrong, maybe that's the cost of removing task boundary.
 
-__2020-09-08__: [DeepUSPS: Deep Robust Unsupervised Saliency Prediction via Self-supervision](https://papers.nips.cc/paper/8314-deepusps-deep-robust-unsupervised-saliency-prediction-via-self-supervision.pdf)
+__2020-09-08__: [DeepUSPS: Deep Robust Unsupervised Saliency Prediction via Self-supervision](https://papers.nips.cc/paper/8314-deepusps-deep-robust-unsupervised-saliency-prediction-via-self-supervision.pdf) :tada: self-supervision as an iterative refinment process. cool.
 
 __2020-09-09__: [Joint-task Self-supervised Learning for Temporal Correspondence](https://papers.nips.cc/paper/8324-joint-task-self-supervised-learning-for-temporal-correspondence.pdf)
 
