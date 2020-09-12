@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/39/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/40/?scale=42&title=MPC&width=360&suffix=)
 
 __2020-08-03__: [Your classifier is secretly an energy based model and you should treat it like one ](https://openreview.net/pdf?id=Hkxzx0NtDB) :tada:
 
@@ -90,7 +90,7 @@ __2020-09-09__: [Joint-task Self-supervised Learning for Temporal Correspondence
 
 __2020-09-10__: [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://papers.nips.cc/paper/9697-using-self-supervised-learning-can-improve-model-robustness-and-uncertainty.pdf) :tada: this empiricial work uses self-supervised method as a regularization term and obtained good result. a simple rotation can yield good performance. I hope there are explanations at the theory side.
 
-__2020-09-11__: [Continual Unsupervised Representation Learning](https://papers.nips.cc/paper/8981-continual-unsupervised-representation-learning.pdf)
+__2020-09-11__: [Continual Unsupervised Representation Learning](https://papers.nips.cc/paper/8981-continual-unsupervised-representation-learning.pdf) :tada: paper very nice to read. triggered a lot to think about.
 
 __2020-09-12__: [On the Convergence Rate of Training Recurrent Neural Networks](https://papers.nips.cc/paper/8893-on-the-convergence-rate-of-training-recurrent-neural-networks.pdf)
 
