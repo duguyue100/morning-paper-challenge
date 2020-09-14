@@ -10,7 +10,7 @@ _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps
 
 _This challenge focus on the ICLR 2020 and NeurIPS 2019 proceedings._
 
-![Progress](https://progress-bar.dev/35/?scale=42&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/0/?scale=36&title=MPC&width=360&suffix=)
 
 __2020-09-14__: [On Calibration of Modern Neural Networks](https://arxiv.org/pdf/1706.04599.pdf)
 
