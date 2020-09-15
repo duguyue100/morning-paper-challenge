@@ -22,9 +22,9 @@ __2020-09-19__: [Bootstrap Your Own Latent A New Approach to Self-Supervised Lea
 
 __2020-09-20__: [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)
 
-__2020-09-21__: 
+__2020-09-21__: [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
 
-__2020-09-23__: 
+__2020-09-23__: [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://arxiv.org/pdf/2004.12943.pdf)
 
 __2020-09-24__: 
 
