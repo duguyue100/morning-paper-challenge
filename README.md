@@ -26,7 +26,7 @@ __2020-09-21__: [Self-Supervised Learning of Pretext-Invariant Representations](
 
 __2020-09-23__: [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://arxiv.org/pdf/2004.12943.pdf)
 
-__2020-09-24__: 
+__2020-09-24__: [Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf)
 
 __2020-09-25__: 
 
