@@ -28,7 +28,7 @@ __2020-09-23__: [Audio-Visual Instance Discrimination with Cross-Modal Agreement
 
 __2020-09-24__: [Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf)
 
-__2020-09-25__: 
+__2020-09-25__: [The Hardware Lottery](https://arxiv.org/pdf/2009.06489.pdf)
 
 __2020-09-26__: 
 
