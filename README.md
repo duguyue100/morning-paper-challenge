@@ -30,9 +30,9 @@ __2020-09-24__: [Similarity of Neural Network Representations Revisited](http://
 
 __2020-09-25__: [The Hardware Lottery](https://arxiv.org/pdf/2009.06489.pdf)
 
-__2020-09-26__: 
+__2020-09-26__: [A Framework For Contrastive Self-Supervised Learning And Designing A New Approach](https://arxiv.org/pdf/2009.00104.pdf)
 
-__2020-09-27__: 
+__2020-09-27__: [Evaluating Self-Supervised Pretraining Without Using Labels](https://arxiv.org/pdf/2009.07724.pdf)
 
 __2020-09-28__: 
 
