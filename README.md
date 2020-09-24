@@ -8,7 +8,7 @@
 
 _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
-![Progress](https://progress-bar.dev/5/?scale=36&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/9/?scale=36&title=MPC&width=360&suffix=)
 
 __2020-09-14__: [On Calibration of Modern Neural Networks](https://arxiv.org/pdf/1706.04599.pdf) :tada: This paper introduces temperature scaling in softmax for confidence calibration. Confidence calibration is an important issue that also ties to interpretability in areas such as metric learning. Essentially, tuning temperature manipulates the output entropy. One interesting finding is that the confidence calibration is actually low-dimensional, this is a great news because the generalization is then less affected by the over-confidence problem.
 
@@ -20,27 +20,27 @@ __2020-09-18__: [A tutorial on surrogate gradient learning in spiking neural net
 
 __2020-09-19__: [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf) :tada: This is the first time I properly read BYOL. I like the idea of eliminating negative samples. However, what is not very clear to me is how come a metric-based few shot learning can efficiently learn a metric space through small number of samples. I found BYOL is much easier to be extended into other modalities as it doesn't need a creative contrastive learning task.
 
-__2020-09-20__: [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)
+__2020-09-20__: None
 
-__2020-09-21__: [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
+__2020-09-21__: None
 
-__2020-09-23__: [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://arxiv.org/pdf/2004.12943.pdf)
+__2020-09-23__: None
 
-__2020-09-24__: [Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf)
+__2020-09-24__: None
 
-__2020-09-25__: [The Hardware Lottery](https://arxiv.org/pdf/2009.06489.pdf)
+__2020-09-25__: [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)
 
-__2020-09-26__: [A Framework For Contrastive Self-Supervised Learning And Designing A New Approach](https://arxiv.org/pdf/2009.00104.pdf)
+__2020-09-26__: [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
 
-__2020-09-27__: [Evaluating Self-Supervised Pretraining Without Using Labels](https://arxiv.org/pdf/2009.07724.pdf)
+__2020-09-27__: [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://arxiv.org/pdf/2004.12943.pdf)
 
-__2020-09-28__: 
+__2020-09-28__: [Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf)
 
-__2020-09-30__: 
+__2020-09-30__: [The Hardware Lottery](https://arxiv.org/pdf/2009.06489.pdf)
 
-__2020-10-01__: 
+__2020-10-01__: [A Framework For Contrastive Self-Supervised Learning And Designing A New Approach](https://arxiv.org/pdf/2009.00104.pdf)
 
-__2020-10-02__: 
+__2020-10-02__: [Evaluating Self-Supervised Pretraining Without Using Labels](https://arxiv.org/pdf/2009.07724.pdf)
 
 __2020-10-03__: 
 
