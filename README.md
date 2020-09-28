@@ -30,11 +30,13 @@ __2020-09-24__: None
 
 __2020-09-25__: [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf) :tada: Pretty cool paper. Friendly with smaller number of batch sizes. There are two main tricks in this work: 1. online clustering part to supply the code for different views. 2. Multi-corp strategy.
 
-__2020-09-26__: [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
+__2020-09-26__: [Visually Guided Self Supervised Learning of Speech Representations](https://arxiv.org/pdf/2001.04316.pdf) Also cross-reference with [this](http://sightsound.org/papers/2020/Abhinav_Shukla_Visual_Self-Supervision_by_Facial_Reconstruction_for_Speech_Representation_Learning.pdf)
 
-__2020-09-27__: [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://arxiv.org/pdf/2004.12943.pdf)
+__2020-09-27__: [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
 
-__2020-09-28__: [Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf)
+__2020-09-28__: [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://arxiv.org/pdf/2004.12943.pdf)
+
+__2020-09-29__: [Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf)
 
 __2020-09-30__: [The Hardware Lottery](https://arxiv.org/pdf/2009.06489.pdf)
 
