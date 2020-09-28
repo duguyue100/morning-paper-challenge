@@ -8,7 +8,7 @@
 
 _One Hour, One Paper, Every Morning at 8am, At [here](https://www.google.ch/maps/place/%22Monte+Diggelmann%22+-+vantage+point+in+Irchelpark/@47.3933675,8.5491733,118m/data=!3m1!1e3!4m5!3m4!1s0x0:0x2cb79f95aa652fc3!8m2!3d47.3932358!4d8.5495728?hl=en)._
 
-![Progress](https://progress-bar.dev/9/?scale=36&title=MPC&width=360&suffix=)
+![Progress](https://progress-bar.dev/10/?scale=36&title=MPC&width=360&suffix=)
 
 __2020-09-14__: [On Calibration of Modern Neural Networks](https://arxiv.org/pdf/1706.04599.pdf) :tada: This paper introduces temperature scaling in softmax for confidence calibration. Confidence calibration is an important issue that also ties to interpretability in areas such as metric learning. Essentially, tuning temperature manipulates the output entropy. One interesting finding is that the confidence calibration is actually low-dimensional, this is a great news because the generalization is then less affected by the over-confidence problem.
 
